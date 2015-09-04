@@ -1085,3 +1085,5 @@ House,-105.00,150903,105.00,Pox,Transfer
 Pox,105.00,150903,,,Correction
 Ins,475.00,150903,Pox,-475.00,Transfer
 Pox,-475.00,150903,Ins,475.00,Transfer
+Food,-5.99,150903,,,Ate_711
+Food,-3.49,150904,,,Ate_711

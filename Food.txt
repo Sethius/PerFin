@@ -256,3 +256,5 @@ Food,-5.00,150830,,,Ate_Vons
 Food,-5.99,150831,,,Ate_711
 Food,-6.48,150901,,,Ate_Subway
 Food,-5.40,150901,,,Ate_DelTaco
+Food,-5.99,150903,,,Ate_711
+Food,-3.49,150904,,,Ate_711

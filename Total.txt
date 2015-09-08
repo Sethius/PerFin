@@ -1087,3 +1087,11 @@ Ins,475.00,150903,Pox,-475.00,Transfer
 Pox,-475.00,150903,Ins,475.00,Transfer
 Food,-5.99,150903,,,Ate_711
 Food,-3.49,150904,,,Ate_711
+Live,-5.99,150905,,,Ate_711
+Live,-6.49,150906,,,_Ate_711
+Live,-27.48,150907,,,Ate_TacoShop
+Live,-5.72,150907,,,Ate_CircleK
+Live,-5.99,150907,,,Ate_711
+Live,-4.42,150907,,,Ate_McDs
+Live,9.99,150907,,,XBox_Live
+Live,-19.98,150907,,,Correction

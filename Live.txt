@@ -274,3 +274,11 @@ Live,-10.02,150827,,,Ate_Popeyes
 Live,-6.32,150826,,,Ate_711
 Live,105,150828,Payday,-105,Transfer
 Live,0.07,150901,,,Interest_Earned
+Live,-5.99,150905,,,Ate_711
+Live,-6.49,150906,,,_Ate_711
+Live,-27.48,150907,,,Ate_TacoShop
+Live,-5.72,150907,,,Ate_CircleK
+Live,-5.99,150907,,,Ate_711
+Live,-4.42,150907,,,Ate_McDs
+Live,9.99,150907,,,XBox_Live
+Live,-19.98,150907,,,Correction

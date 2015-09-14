@@ -258,3 +258,12 @@ Food,-6.48,150901,,,Ate_Subway
 Food,-5.40,150901,,,Ate_DelTaco
 Food,-5.99,150903,,,Ate_711
 Food,-3.49,150904,,,Ate_711
+Food,140,150910,Payday,-140,Transfer
+Food,-8.98,150910,,,Ate_711
+Food,-7.75,150911,,,Ate_CarlsJr
+Food,-4.42,150912,,,Ate_McDs
+Food,-5.40,150913,,,Ate_DelTaco
+Food,-2.99,150911,,,Ate_711
+Food,-6.50,150912,,,Ate_711
+Food,-5.99,150913,,,Ate_711
+Food,-4.48,150913,,,Ate_711

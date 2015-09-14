@@ -47,3 +47,5 @@ Pox,210.00,150814,House,-210.00,Transfer
 Pox,210,150828,Payday,-210,Transfer
 Pox,105.00,150903,,,Correction
 Pox,-475.00,150903,Ins,475.00,Transfer
+Pox,215,150910,Payday,-210,Transfer
+Pox,50.00,150911,Student_Loan,-50.00,Transfer

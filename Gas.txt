@@ -53,3 +53,6 @@ Gas,-32.34.150825,,,Bought_Gas
 Gas,22.00,150825,Live,-22.00,Transfer
 Gas,50,150828,Payday,-50,Transfer
 Gas,-27.77,150901,,,Bought_Gas
+Gas,-32.65,150909,,,Bought_Gas
+Gas,10.00,150910,Emergency,-10.00,Transfer
+Gas,50,150910,Payday,-50,Transfer

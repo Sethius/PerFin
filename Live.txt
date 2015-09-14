@@ -284,3 +284,7 @@ Live,9.99,150907,,,XBox_Live
 Live,-19.98,150907,,,Correction
 Live,-6.66,150908,,,Ate_DelTaco
 Live,-5.99,150908,,,Ate_711
+Live,-6.50,150909,,,Ate_711
+Live,110,150910,Payday,-105,Transfer
+Live,-14.03,150912,,,Shopped_Frys
+Live,-6.79,150912,,,Shopped_GameStop

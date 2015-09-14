@@ -220,3 +220,16 @@ Payday,-210,150828,Pox,210,Transfer
 Payday,-210,150828,Emergency,210,Transfer
 Payday,-210,150828,House,210,Transfer
 Payday,-50,150828,Munky,50,Transfer
+Payday,1456.93,150910,,,Paycheck
+Payday,-250,150910,Rent,250,Transfer
+Payday,-20,150910,Student_Loan,55,Transfer
+Payday,-95,150910,Car_Loan,95,Transfer
+Payday,-65,150910,Ins,60,Transfer
+Payday,-50,150910,Gas,50,Transfer
+Payday,-30,150910,Phone,25,Transfer
+Payday,-140,150910,Food,140,Transfer
+Payday,-110,150910,Live,105,Transfer
+Payday,-215,150910,Pox,210,Transfer
+Payday,-215,150910,Emergency,210,Transfer
+Payday,-215,150910,House,210,Transfer
+Payday,-50,150910,Munky,50,Transfer

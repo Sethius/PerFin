@@ -25,3 +25,4 @@ Rent,250,150814,Payday,-250,Transfer
 Rent,-500.00,150819,,,Paid_Rent
 Rent,250,150828,Payday,-250,Transfer
 Rent,250,150910,Payday,-250,Transfer
+Rent,-500.00,150914,,,Paid_Rent

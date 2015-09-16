@@ -288,3 +288,4 @@ Live,-6.50,150909,,,Ate_711
 Live,110,150910,Payday,-105,Transfer
 Live,-14.03,150912,,,Shopped_Frys
 Live,-6.79,150912,,,Shopped_GameStop
+Live,55.00,150916,Emergency,-55.00,Transfer

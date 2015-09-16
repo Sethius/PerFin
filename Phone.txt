@@ -25,3 +25,4 @@ Phone,25,150814,Payday,-25,Transfer
 Phone,-35.00,150814,,,Paid_Phone
 Phone,25,150828,Payday,-25,Transfer
 Phone,30,150910,Payday,-25,Transfer
+Phone,-35.00,150916,,,Paid_Bill

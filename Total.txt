@@ -1138,3 +1138,17 @@ Live,-14.03,150912,,,Shopped_Frys
 Live,-6.79,150912,,,Shopped_GameStop
 Food,-5.99,150913,,,Ate_711
 Food,-4.48,150913,,,Ate_711
+Food,-9.49,150914,,,Ate_711
+Rent,-500.00,150914,,,Paid_Rent
+Food,-6.47,150915,,,Ate_CrazyChicken
+Food,-8.67,150915,,,Ate_DelTaco
+Phone,-35.00,150916,,,Paid_Bill
+Emergency,-105.00,150916,,,Moved_ToBank
+Live,55.00,150916,Emergency,-55.00,Transfer
+Emergency,-55.00,150916,Live,55.00,Transfer
+Pox,55.00,150916,Emergency,-55.00,Transfer
+Emergency,-55.00,150916,Pox,55.00,Transfer
+Pox,170.00,150916,House,-170.00,Transfer
+House,-170.00,150916,Pox,170.00,Transfer
+Pox,-500.00,150916,,,Paid_CarLoan
+Food,0.30,150916,,,Correction

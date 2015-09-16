@@ -49,3 +49,6 @@ Pox,105.00,150903,,,Correction
 Pox,-475.00,150903,Ins,475.00,Transfer
 Pox,215,150910,Payday,-210,Transfer
 Pox,50.00,150911,Student_Loan,-50.00,Transfer
+Pox,55.00,150916,Emergency,-55.00,Transfer
+Pox,170.00,150916,House,-170.00,Transfer
+Pox,-500.00,150916,,,Paid_CarLoan

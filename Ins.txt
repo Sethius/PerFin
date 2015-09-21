@@ -23,3 +23,4 @@ Ins,60,150814,Payday,-60,Transfer
 Ins,60,150828,Payday,-60,Transfer
 Ins,475.00,150903,Pox,-475.00,Transfer
 Ins,65,150910,Payday,-60,Transfer
+Ins,-932.00,150921,,,Paid_CarIns

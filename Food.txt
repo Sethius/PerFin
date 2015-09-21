@@ -271,3 +271,9 @@ Food,-9.49,150914,,,Ate_711
 Food,-6.47,150915,,,Ate_CrazyChicken
 Food,-8.67,150915,,,Ate_DelTaco
 Food,0.30,150916,,,Correction
+Food,-0.99,150918,,,Ate_711
+Food,-25.00,150918,,,Ate_Vons
+Food,-13.14,150918,,,Ate_Jack
+Food,-6.72,150918,,,Ate_711
+Food,-7.31,150919,,,Ate_711
+Food,-30.50,150919,,,Ate_Vons

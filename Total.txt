@@ -1165,3 +1165,4 @@ Ins,-932.00,150921,,,Paid_CarIns
 Live,-82.00,150920,,,Ate_IHOP
 Phone,35.00,150921,,,Correction
 Live,-3.46,150916,,,Ate_711
+Live,-5.40,150921,,,Ate_DelTaco

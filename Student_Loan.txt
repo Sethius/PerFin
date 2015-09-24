@@ -28,3 +28,4 @@ Student_Loan,55,150828,Payday,-55,Transfer
 Student_Loan,-110.00,150831,,,Paid_StuLoan
 Student_Loan,20,150910,Payday,-55,Transfer
 Student_Loan,-50.00,150911,Pox,50.00,Transfer
+Student_Loan,20,150924,Payday,-55,Transfer

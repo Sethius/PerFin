@@ -29,3 +29,4 @@ Car_Loan,95,150814,Payday,-95,Transfer
 Car_Loan,95,150828,Payday,-95,Transfer
 Car_Loan,-188.52,150831,,,Paid_CarLoan
 Car_Loan,95,150910,Payday,-95,Transfer
+Car_Loan,95,150924,Payday,-95,Transfer

@@ -31,3 +31,4 @@ House,-105.00,150903,,,MovedtoBank
 House,-105.00,150903,105.00,Pox,Transfer
 House,215,150910,Payday,-210,Transfer
 House,-170.00,150916,Pox,170.00,Transfer
+House,215,150924,Payday,-210,Transfer

@@ -28,3 +28,4 @@ Phone,30,150910,Payday,-25,Transfer
 Phone,-35.00,150916,,,Paid_Bill
 Phone,-35.00,150918,,,Paid_Boost
 Phone,35.00,150921,,,Correction
+Phone,30,150924,Payday,-25,Transfer

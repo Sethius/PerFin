@@ -293,3 +293,6 @@ Live,-4.05,150919,,,Ate_Starbucks
 Live,-82.00,150920,,,Ate_IHOP
 Live,-3.46,150916,,,Ate_711
 Live,-5.40,150921,,,Ate_DelTaco
+Live,-11.32,150922,,,Ate_711
+Live,-8.98,150923,,,Ate_711
+Live,110,150924,Payday,-105,Transfer

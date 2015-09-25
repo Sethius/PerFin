@@ -1195,3 +1195,12 @@ House,215,150924,Payday,-210,Transfer
 Payday,-215,150924,House,210,Transfer
 Munky,50,150924,Payday,-50,Transfer
 Payday,-50,150924,Munky,50,Transfer
+Live,-11.32,150924,,,Ate_711
+Pox,75.00,150925,Emergency,-75.00,Transfer
+Emergency,-75.00,150925,Pox,75.00,Transfer
+Emergency,-75.00,150925,,,Moved_ToBank
+Live,60.00,150925,Emergency,-60.00,Transfer
+Emergency,-60.00,150925,Live,60.00,Transfer
+Pox,260.00,150925,House,-260.00,Transfer
+House,-260.00,150925,Pox,260.00,Transfer
+Pox,-500.00,150925,,,Paid_CarLoan

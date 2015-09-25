@@ -53,3 +53,6 @@ Pox,55.00,150916,Emergency,-55.00,Transfer
 Pox,170.00,150916,House,-170.00,Transfer
 Pox,-500.00,150916,,,Paid_CarLoan
 Pox,215,150924,Payday,-210,Transfer
+Pox,75.00,150925,Emergency,-75.00,Transfer
+Pox,260.00,150925,House,-260.00,Transfer
+Pox,-500.00,150925,,,Paid_CarLoan

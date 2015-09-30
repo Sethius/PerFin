@@ -280,3 +280,14 @@ Food,-30.50,150919,,,Ate_Vons
 Food,-6.66,150922,,,Ate_DelTaco
 Food,-6.47,150923,,,Ate_CrazyChicken
 Food,140,150924,Payday,-140,Transfer
+Food,-8.46,150926,,,Ate_711
+Food,-5.28,150927,,,Ate_711
+Food,-2.15,150827,,,Ate_Rubios
+Food,-8.40,150927,,,Ate_Popeyes
+Food,-3.98,150927,,,Ate_711
+Food,-6.32,150927,,,Ate_711
+Food,-6.24,150927,,,Ate_TacoBell
+Food,-5.50,150928,,,Ate_McDs
+Food,-4.62,150928,,,Ate_Wendys
+Food,-5.39,150929,,,Ate_CrazyChicken
+Food,-6.66,150929,,,Ate_DelTaco

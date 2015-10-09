@@ -291,3 +291,13 @@ Food,-5.50,150928,,,Ate_McDs
 Food,-4.62,150928,,,Ate_Wendys
 Food,-5.39,150929,,,Ate_CrazyChicken
 Food,-6.66,150929,,,Ate_DelTaco
+Food,-9.05,150930,,,Ate_Popeyes
+Food,-18.00,150930,,,Drank_RD
+Food,-3.98,151001,,,Ate_711
+Food,-8.69,151001,,,Ate_ChickFilA
+Food,-5.50,151002,,,Ate_McDs
+Food,-10.75,151004,,,Ate_Costco
+Food,-20.98,151004,,,Costco_Groceries
+Food,-9.08,151003,,,Ate_Rosies
+Food,140,151008,Payday,-140,Transfer
+Food,-3.99,151008,,,Ate_Jack

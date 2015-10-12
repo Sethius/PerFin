@@ -301,3 +301,6 @@ Food,-20.98,151004,,,Costco_Groceries
 Food,-9.08,151003,,,Ate_Rosies
 Food,140,151008,Payday,-140,Transfer
 Food,-3.99,151008,,,Ate_Jack
+Food,-5.98,151011,,,Vons_Groceries
+Food,-5.41,151010,,,Ate_DelTaco
+Food,-10.00,151011,,,Ate_Dennys

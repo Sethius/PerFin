@@ -1286,3 +1286,15 @@ Live,-4.99,151009,,,Ate_711
 Food,-3.99,151008,,,Ate_Jack
 Munky,0.01,151009,Live,-0.01,Transfer
 Live,-0.01,151009,Munky,0.01,Transfer
+Live,-1.49,151009,,,Ate_711
+Live,-5.19,151011,,,Ate_Chevron
+Munky,-46.40,151011,,,Munky_BDay
+Food,-5.98,151011,,,Vons_Groceries
+Munky,-2.96,151011,,,Munky_BDay
+Gas,-21.67,151011,,,Bought_Gas
+Live,-3.98,151011,,,Ate_711
+Live,-13.00,151009,,,Drank_RD
+Food,-5.41,151010,,,Ate_DelTaco
+Food,-10.00,151011,,,Ate_Dennys
+Live,-3.08,151011,,,Dollar_Shave
+Phone,-35.00,151012,,,Paid_Boost

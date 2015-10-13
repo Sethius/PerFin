@@ -1298,3 +1298,6 @@ Food,-5.41,151010,,,Ate_DelTaco
 Food,-10.00,151011,,,Ate_Dennys
 Live,-3.08,151011,,,Dollar_Shave
 Phone,-35.00,151012,,,Paid_Boost
+Gas,-27.45,151012,,,Bought_Gas
+Live,-20.00,151012,,,Cameron_BDay
+Live,-6.50,151012,,,Ate_711

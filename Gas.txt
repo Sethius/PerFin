@@ -62,3 +62,4 @@ Gas,-30.95,150928,,,Bought_Gas
 Gas,-31.13,151004,,,Bought_Gas
 Gas,50,151008,Payday,-50,Transfer
 Gas,-21.67,151011,,,Bought_Gas
+Gas,-27.45,151012,,,Bought_Gas

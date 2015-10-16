@@ -304,3 +304,8 @@ Food,-3.99,151008,,,Ate_Jack
 Food,-5.98,151011,,,Vons_Groceries
 Food,-5.41,151010,,,Ate_DelTaco
 Food,-10.00,151011,,,Ate_Dennys
+Food,-6.47,151013,,,Ate_CrazyChicken
+Food,-9.99,151013,,,Vons_Groceries
+Food,-6.99,151013,,,Ate_DelTaco
+Food,-16.72,151014,,,Ate_EXPENSIVE_SubMarina
+Food,-6.89,151016,,,Ate_Carls

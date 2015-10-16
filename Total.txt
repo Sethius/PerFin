@@ -1301,3 +1301,13 @@ Phone,-35.00,151012,,,Paid_Boost
 Gas,-27.45,151012,,,Bought_Gas
 Live,-20.00,151012,,,Cameron_BDay
 Live,-6.50,151012,,,Ate_711
+Food,-6.47,151013,,,Ate_CrazyChicken
+Food,-9.99,151013,,,Vons_Groceries
+Live,-7.39,151013,,,Ate_711
+Food,-6.99,151013,,,Ate_DelTaco
+Live,-5.99,151013,,,Ate_711
+Food,-16.72,151014,,,Ate_EXPENSIVE_SubMarina
+Rent,-500.00,151014,,,Paid_Rent
+Live,-6.32,151014,,,Ate_711
+Live,-5.99,151015,,,Ate_711
+Food,-6.89,151016,,,Ate_Carls

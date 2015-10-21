@@ -1311,3 +1311,8 @@ Rent,-500.00,151014,,,Paid_Rent
 Live,-6.32,151014,,,Ate_711
 Live,-5.99,151015,,,Ate_711
 Food,-6.89,151016,,,Ate_Carls
+Live,-26.00,151016,,,Climbing_Gym
+Food,-34.86,151017,,,Costco_Groceries
+Live,-10.75,151017,,,Costco_Pizza
+Live,-12.31,151017,,,Ate_711
+Live,-6.99,151020,,,Ate_DelTaco

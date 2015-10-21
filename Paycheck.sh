@@ -27,8 +27,8 @@ echo Phone,30,$(date +%y%m%d),Payday,-25,Transfer | tee -a Phone.txt Total.txt >
 echo Payday,-30,$(date +%y%m%d),Phone,25,Transfer | tee -a Payday.txt Total.txt >/dev/null
 echo Food,140,$(date +%y%m%d),Payday,-140,Transfer | tee -a Food.txt Total.txt >/dev/null
 echo Payday,-140,$(date +%y%m%d),Food,140,Transfer | tee -a Payday.txt Total.txt >/dev/null
-echo Live,110,$(date +%y%m%d),Payday,-105,Transfer | tee -a Live.txt Total.txt >/dev/null
-echo Payday,-110,$(date +%y%m%d),Live,105,Transfer | tee -a Payday.txt Total.txt >/dev/null
+echo Live,100,$(date +%y%m%d),Payday,-100,Transfer | tee -a Live.txt Total.txt >/dev/null
+echo Payday,-100,$(date +%y%m%d),Live,100,Transfer | tee -a Payday.txt Total.txt >/dev/null
 echo Pox,215,$(date +%y%m%d),Payday,-210,Transfer | tee -a Pox.txt Total.txt >/dev/null
 echo Payday,-215,$(date +%y%m%d),Pox,210,Transfer | tee -a Payday.txt Total.txt >/dev/null
 echo Emergency,215,$(date +%y%m%d),Payday,-210,Transfer | tee -a Emergency.txt Total.txt >/dev/null
@@ -37,5 +37,6 @@ echo House,215,$(date +%y%m%d),Payday,-210,Transfer | tee -a House.txt Total.txt
 echo Payday,-215,$(date +%y%m%d),House,210,Transfer | tee -a Payday.txt Total.txt >/dev/null
 echo Munky,50,$(date +%y%m%d),Payday,-50,Transfer | tee -a Munky.txt Total.txt >/dev/null
 echo Payday,-50,$(date +%y%m%d),Munky,50,Transfer | tee -a Payday.txt Total.txt >/dev/null
-
+echo Gaming,10,$(date +%y%m%d),Payday,-10,Transfer | tee -a Gaming.txt Total.txt >/dev/null
+echo Payday,-10,$(date +%y%m%d),Gaming,10,Transfer | tee -a Payday.txt Total.txt >/dev/null
 

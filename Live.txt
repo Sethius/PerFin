@@ -332,3 +332,7 @@ Live,-7.39,151013,,,Ate_711
 Live,-5.99,151013,,,Ate_711
 Live,-6.32,151014,,,Ate_711
 Live,-5.99,151015,,,Ate_711
+Live,-26.00,151016,,,Climbing_Gym
+Live,-10.75,151017,,,Costco_Pizza
+Live,-12.31,151017,,,Ate_711
+Live,-6.99,151020,,,Ate_DelTaco

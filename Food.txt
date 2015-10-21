@@ -309,3 +309,4 @@ Food,-9.99,151013,,,Vons_Groceries
 Food,-6.99,151013,,,Ate_DelTaco
 Food,-16.72,151014,,,Ate_EXPENSIVE_SubMarina
 Food,-6.89,151016,,,Ate_Carls
+Food,-34.86,151017,,,Costco_Groceries

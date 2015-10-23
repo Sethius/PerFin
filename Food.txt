@@ -310,3 +310,5 @@ Food,-6.99,151013,,,Ate_DelTaco
 Food,-16.72,151014,,,Ate_EXPENSIVE_SubMarina
 Food,-6.89,151016,,,Ate_Carls
 Food,-34.86,151017,,,Costco_Groceries
+Food,-11.06,151022,,,Ate_Habaneros
+Food,140,151022,Payday,-140,Transfer

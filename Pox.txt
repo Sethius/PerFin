@@ -60,3 +60,7 @@ Pox,0.08,150930,,,Interest_Accrued
 Pox,215,151008,Payday,-210,Transfer
 Pox,210.00,151008,House,-210.00,Transfer
 Pox,256.00,151008,Car_Loan,-256.00,Transfer
+Pox,215,151022,Payday,-210,Transfer
+Pox,145.00,151022,Emergency,-145.00,Transfer
+Pox,125.00,151022,Car_Loan,-125.00,Transfer
+Pox,-1225.00,151023,,,Paid_CarLoan

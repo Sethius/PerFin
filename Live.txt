@@ -336,3 +336,6 @@ Live,-26.00,151016,,,Climbing_Gym
 Live,-10.75,151017,,,Costco_Pizza
 Live,-12.31,151017,,,Ate_711
 Live,-6.99,151020,,,Ate_DelTaco
+Live,-5.16,151022,,,Ate_Chevron
+Live,100,151022,Payday,-100,Transfer
+Live,70.00,151022,Emergency,-70.00,Transfer

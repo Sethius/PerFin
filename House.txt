@@ -35,3 +35,5 @@ House,215,150924,Payday,-210,Transfer
 House,-260.00,150925,Pox,260.00,Transfer
 House,215,151008,Payday,-210,Transfer
 House,-210.00,151008,Pox,210.00,Transfer
+House,215,151022,Payday,-210,Transfer
+House,-220.00,151022,,,Moved_ToBank

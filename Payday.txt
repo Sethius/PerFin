@@ -260,3 +260,17 @@ Payday,-215,151008,Pox,210,Transfer
 Payday,-215,151008,Emergency,210,Transfer
 Payday,-215,151008,House,210,Transfer
 Payday,-50,151008,Munky,50,Transfer
+Payday,1456.94,151022,,,Paycheck
+Payday,-250,151022,Rent,250,Transfer
+Payday,-20,151022,Student_Loan,55,Transfer
+Payday,-95,151022,Car_Loan,95,Transfer
+Payday,-65,151022,Ins,60,Transfer
+Payday,-50,151022,Gas,50,Transfer
+Payday,-30,151022,Phone,25,Transfer
+Payday,-140,151022,Food,140,Transfer
+Payday,-100,151022,Live,100,Transfer
+Payday,-215,151022,Pox,210,Transfer
+Payday,-215,151022,Emergency,210,Transfer
+Payday,-215,151022,House,210,Transfer
+Payday,-50,151022,Munky,50,Transfer
+Payday,-10,151022,Gaming,10,Transfer

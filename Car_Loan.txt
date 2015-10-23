@@ -32,3 +32,5 @@ Car_Loan,95,150910,Payday,-95,Transfer
 Car_Loan,95,150924,Payday,-95,Transfer
 Car_Loan,95,151008,Payday,-95,Transfer
 Car_Loan,-256.00,151008,Pox,256.00,Transfer
+Car_Loan,95,151022,Payday,-95,Transfer
+Car_Loan,-125.00,151022,Pox,125.00,Transfer

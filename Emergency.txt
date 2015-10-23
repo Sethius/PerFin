@@ -54,3 +54,6 @@ Emergency,-60.00,150925,Live,60.00,Transfer
 Emergency,215,151008,Payday,-210,Transfer
 Emergency,-110.00,151008,Live,110,Transfer
 Emergency,-110.00,151008,,,Moved_To_Bank
+Emergency,215,151022,Payday,-210,Transfer
+Emergency,-145.00,151022,Pox,145.00,Transfer
+Emergency,-70.00,151022,Live,70.00,Transfer

@@ -339,3 +339,7 @@ Live,-6.99,151020,,,Ate_DelTaco
 Live,-5.16,151022,,,Ate_Chevron
 Live,100,151022,Payday,-100,Transfer
 Live,70.00,151022,Emergency,-70.00,Transfer
+Live,-5.99,151024,,,Ate_711
+Live,-8.88,151026,,,Ate_711
+Live,-42.00,151028,,,Miramar_Relax
+Live,-52.00,151028,,,Miramar_Relax

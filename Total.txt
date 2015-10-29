@@ -1353,3 +1353,15 @@ Emergency,-70.00,151022,Live,70.00,Transfer
 Pox,125.00,151022,Car_Loan,-125.00,Transfer
 Car_Loan,-125.00,151022,Pox,125.00,Transfer
 Pox,-1225.00,151023,,,Paid_CarLoan
+Gas,-28.65,151023,,,Bought_Gas
+Live,-5.99,151024,,,Ate_711
+Food,-2.39,151025,,,Ate_711
+Food,-7.34,151025,,,Ate_Panda
+Food,-7.72,151025,,,Ate_Chipotle
+Live,-8.88,151026,,,Ate_711
+Food,-8.83,151027,,,Ate_KFC
+Food,-6.90,151027,,,Ate_DelTaco
+Food,-8.42,151028,,,Ate_InNOut
+Live,-42.00,151028,,,Miramar_Relax
+Live,-52.00,151028,,,Miramar_Relax
+Food,-3.38,151029,,,Ate_711

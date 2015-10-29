@@ -312,3 +312,10 @@ Food,-6.89,151016,,,Ate_Carls
 Food,-34.86,151017,,,Costco_Groceries
 Food,-11.06,151022,,,Ate_Habaneros
 Food,140,151022,Payday,-140,Transfer
+Food,-2.39,151025,,,Ate_711
+Food,-7.34,151025,,,Ate_Panda
+Food,-7.72,151025,,,Ate_Chipotle
+Food,-8.83,151027,,,Ate_KFC
+Food,-6.90,151027,,,Ate_DelTaco
+Food,-8.42,151028,,,Ate_InNOut
+Food,-3.38,151029,,,Ate_711

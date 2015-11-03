@@ -57,3 +57,5 @@ Emergency,-110.00,151008,,,Moved_To_Bank
 Emergency,215,151022,Payday,-210,Transfer
 Emergency,-145.00,151022,Pox,145.00,Transfer
 Emergency,-70.00,151022,Live,70.00,Transfer
+Emergency,-96.40,151102,,,Dentist
+Emergency,0.06,151031,,,Dividend_Added

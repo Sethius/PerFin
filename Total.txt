@@ -1365,3 +1365,16 @@ Food,-8.42,151028,,,Ate_InNOut
 Live,-42.00,151028,,,Miramar_Relax
 Live,-52.00,151028,,,Miramar_Relax
 Food,-3.38,151029,,,Ate_711
+Food,-7.75,151029,,,Ate_Carls
+Food,-3.77,151029,,,Ate_Jack
+Student_Loan,-40.00,151029,,,Paid_StuLo
+Food,-10.00,151030,,,Ate_CreativeDeli
+Live,-31.71,151102,,,Bought_Lyr
+Food,-4.42,151031,,,Ate_McDs
+Food,-8.94,151101,,,Ate_Jack
+Emergency,-96.40,151102,,,Dentist
+Gas,-29.44,151031,,,Bought_Gas
+Emergency,0.06,151031,,,Dividend_Added
+Live,10.23,151102,,,Correction?
+Food,-10.00,151102,,,Ate_EastOfChicagoPizza
+Food,-30.00,151103,,,Ate_RedLobster

@@ -319,3 +319,10 @@ Food,-8.83,151027,,,Ate_KFC
 Food,-6.90,151027,,,Ate_DelTaco
 Food,-8.42,151028,,,Ate_InNOut
 Food,-3.38,151029,,,Ate_711
+Food,-7.75,151029,,,Ate_Carls
+Food,-3.77,151029,,,Ate_Jack
+Food,-10.00,151030,,,Ate_CreativeDeli
+Food,-4.42,151031,,,Ate_McDs
+Food,-8.94,151101,,,Ate_Jack
+Food,-10.00,151102,,,Ate_EastOfChicagoPizza
+Food,-30.00,151103,,,Ate_RedLobster

@@ -1378,3 +1378,8 @@ Emergency,0.06,151031,,,Dividend_Added
 Live,10.23,151102,,,Correction?
 Food,-10.00,151102,,,Ate_EastOfChicagoPizza
 Food,-30.00,151103,,,Ate_RedLobster
+Food,-6.90,151103,,,Ate_DelTaco
+Live,-7.90,151102,,,Ate_711
+Live,-11.50,151031,,,Ate_711
+Live,-9.98,151031,,,Ate_711
+Live,-10.23,151104,,,Re-Correction

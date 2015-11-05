@@ -326,3 +326,4 @@ Food,-4.42,151031,,,Ate_McDs
 Food,-8.94,151101,,,Ate_Jack
 Food,-10.00,151102,,,Ate_EastOfChicagoPizza
 Food,-30.00,151103,,,Ate_RedLobster
+Food,-6.90,151103,,,Ate_DelTaco

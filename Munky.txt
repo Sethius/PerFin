@@ -24,3 +24,4 @@ Munky,0.01,151009,Live,-0.01,Transfer
 Munky,-46.40,151011,,,Munky_BDay
 Munky,-2.96,151011,,,Munky_BDay
 Munky,50,151022,Payday,-50,Transfer
+Munky,50,151106,Payday,-50,Transfer

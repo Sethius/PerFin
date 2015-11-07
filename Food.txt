@@ -327,3 +327,6 @@ Food,-8.94,151101,,,Ate_Jack
 Food,-10.00,151102,,,Ate_EastOfChicagoPizza
 Food,-30.00,151103,,,Ate_RedLobster
 Food,-6.90,151103,,,Ate_DelTaco
+Food,-3.38,151104,,,Ate_711
+Food,140,151106,Payday,-140,Transfer
+Food,-3.77,151105,,,Ate_Jack

@@ -349,3 +349,5 @@ Live,-7.90,151102,,,Ate_711
 Live,-11.50,151031,,,Ate_711
 Live,-9.98,151031,,,Ate_711
 Live,-10.23,151104,,,Re-Correction
+Live,-5.51,151104,,,Ate_711
+Live,100,151106,Payday,-100,Transfer

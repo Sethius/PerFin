@@ -351,3 +351,6 @@ Live,-9.98,151031,,,Ate_711
 Live,-10.23,151104,,,Re-Correction
 Live,-5.51,151104,,,Ate_711
 Live,100,151106,Payday,-100,Transfer
+Live,-14.70,151106,,,Ate_711
+Live,-7.31,151110,live,7.31,Transfer
+Live,-39.99,151112,,,Bought_BlizzardPayPal

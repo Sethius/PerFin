@@ -330,3 +330,10 @@ Food,-6.90,151103,,,Ate_DelTaco
 Food,-3.38,151104,,,Ate_711
 Food,140,151106,Payday,-140,Transfer
 Food,-3.77,151105,,,Ate_Jack
+Food,-59.75,151108,,,Costco_Groceries
+Food,-3.77,151108,,,Ate_Costco
+Food,-7.75,151109,,,Ate_Carls
+Food,-4.98,151110,,,Ate_711
+Food,7.75,151110,,,Correction_DidNotEatCarls
+Food,-6.90,151111,,,Ate_DelTaco
+Food,-3.99,151112,,,Ate_Jack

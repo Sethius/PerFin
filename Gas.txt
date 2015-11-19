@@ -68,3 +68,5 @@ Gas,-28.65,151023,,,Bought_Gas
 Gas,-29.44,151031,,,Bought_Gas
 Gas,50,151106,Payday,-50,Transfer
 Gas,-22.41,151108,,,Costco_Gas
+Gas,-26.25,151114,,,Bought_Gas
+Gas,50,151119,Payday,-50,Transfer

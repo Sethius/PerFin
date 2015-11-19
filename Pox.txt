@@ -66,3 +66,4 @@ Pox,125.00,151022,Car_Loan,-125.00,Transfer
 Pox,-1225.00,151023,,,Paid_CarLoan
 Pox,215,151106,Payday,-215,Transfer
 Pox,-200.00,151113,,,Paid_StuLo
+Pox,215,151119,Payday,-215,Transfer

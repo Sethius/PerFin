@@ -337,3 +337,15 @@ Food,-4.98,151110,,,Ate_711
 Food,7.75,151110,,,Correction_DidNotEatCarls
 Food,-6.90,151111,,,Ate_DelTaco
 Food,-3.99,151112,,,Ate_Jack
+Food,-8.69,151113,,,Ate_ChickFilA
+Food,-46.34,151114,,,Ate_LittleItaly
+Food,-5.99,151114,,,Ate_711
+Food,-3.88,151114,,,Ate_CircleK
+Food,-3.88,151113,,,Ate_711
+Food,-7.01,151117,,,Ate_KFC
+Food,-9.91,151117,,,Ate_Carls
+Food,-7.31,151118,,,Ate_DelTaco
+Food,-3.88,151119,,,Ate_711
+Food,-9.00,151119,,,Ate_Callahans
+Food,-3.22,151119,,,Ate_BurgerKing
+Food,140,151119,Payday,-140,Transfer

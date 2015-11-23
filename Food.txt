@@ -349,3 +349,8 @@ Food,-3.88,151119,,,Ate_711
 Food,-9.00,151119,,,Ate_Callahans
 Food,-3.22,151119,,,Ate_BurgerKing
 Food,140,151119,Payday,-140,Transfer
+Food,-4.42,151121,,,Ate_McDs
+Food,-3.76,151122,,,Ate_Wendys
+Food,-8.99,151122,,,Ate_Vons
+Food,-8.42,151121,,,Ate_InNOut
+Food,-6.78,151123,,,Ate_Rigobertos

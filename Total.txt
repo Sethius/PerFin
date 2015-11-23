@@ -1472,3 +1472,11 @@ Munky,50,151119,Payday,-50,Transfer
 Payday,-50,151119,Munky,50,Transfer
 Gaming,10,151119,Payday,-10,Transfer
 Payday,-10,151119,Gaming,10,Transfer
+Live,-12.31,151120,,,Ate_711
+Food,-4.42,151121,,,Ate_McDs
+Food,-3.76,151122,,,Ate_Wendys
+Food,-8.99,151122,,,Ate_Vons
+Food,-8.42,151121,,,Ate_InNOut
+Live,-7.31,151120,,,Ate_711
+Live,-7.31,151122,,,Ate_711
+Food,-6.78,151123,,,Ate_Rigobertos

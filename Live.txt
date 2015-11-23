@@ -357,3 +357,6 @@ Live,-39.99,151112,,,Bought_BlizzardPayPal
 Live,-10.00,151115,,,Bought_GoodDeed
 Live,0.50,151117,,,Unknown_Correction
 Live,100,151119,Payday,-100,Transfer
+Live,-12.31,151120,,,Ate_711
+Live,-7.31,151120,,,Ate_711
+Live,-7.31,151122,,,Ate_711

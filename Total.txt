@@ -1497,3 +1497,7 @@ Food,-16.75,151129,,,Ate_Donuts
 Student_Loan,-40.00,151130,,,Paid_StuLo
 Gas,32.37,151130,Live,-32.37,Transfer
 Live,-32.37,151130,Gas,32.37,Transfer
+Car_Loan,-188.52,151201,,,Paid_CarLo
+Food,-28.95,151130,,,Ate_Rosies
+Live,0.07,151130,,,Interest_Earned
+Live,-8.96,151201,,,Ate_711

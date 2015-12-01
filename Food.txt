@@ -354,3 +354,9 @@ Food,-3.76,151122,,,Ate_Wendys
 Food,-8.99,151122,,,Ate_Vons
 Food,-8.42,151121,,,Ate_InNOut
 Food,-6.78,151123,,,Ate_Rigobertos
+Food,-7.31,151124,,,Ate_DelTaco
+Food,-9.94,151125,,,Ate_DelTaco
+Food,0.39,151125,,,Correction
+Food,-11.15,151126,,,Ate_Shell
+Food,-7.97,151128,,,Ate_711
+Food,-16.75,151129,,,Ate_Donuts

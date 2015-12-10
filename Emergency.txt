@@ -62,3 +62,5 @@ Emergency,0.06,151031,,,Dividend_Added
 Emergency,215,151106,Payday,-215,Transfer
 Emergency,215,151119,Payday,-215,Transfer
 Emergency,-500.00,151125,,,Moved_ToBank
+Emergency,215,151203,Payday,-215,Transfer
+Emergency,-38.00,151207,Live,38.00,Transfer

@@ -74,3 +74,4 @@ Gas,-37.41,151123,,,Bought_Gas_Borrego
 Gas,-27.47,151126,,,Gas_Shell
 Gas,-29.62,151129,,,Gas_76
 Gas,32.37,151130,Live,-32.37,Transfer
+Gas,50,151203,Payday,-50,Transfer

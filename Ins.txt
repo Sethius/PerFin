@@ -29,3 +29,4 @@ Ins,65,151008,Payday,-60,Transfer
 Ins,65,151022,Payday,-60,Transfer
 Ins,65,151106,Payday,-65,Transfer
 Ins,65,151119,Payday,-65,Transfer
+Ins,65,151203,Payday,-65,Transfer

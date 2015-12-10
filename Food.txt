@@ -361,3 +361,14 @@ Food,-11.15,151126,,,Ate_Shell
 Food,-7.97,151128,,,Ate_711
 Food,-16.75,151129,,,Ate_Donuts
 Food,-28.95,151130,,,Ate_Rosies
+Food,-8.27,151201,,,Ate_DelTaco
+Food,-10.56,151202,,,Ate_Pastalini
+Food,-3.99,151202,,,Ate_Jack
+Food,-8.69,151203,,,Ate_ChickFilA
+Food,140,151203,Payday,-140,Transfer
+Food,-4.42,151205,,,Ate_McDs.
+Food,-7.72,151206,,,Ate_Chipotle
+Food,-27.18,151205,Ate_Vons
+Food,-9.39,151207,,,Ate_Hometown
+Food,-48.58,151208,,,Ate_Oggis
+Food,20.00,151209,Live,-20.00,Transfer

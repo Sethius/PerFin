@@ -26,3 +26,6 @@ Munky,-2.96,151011,,,Munky_BDay
 Munky,50,151022,Payday,-50,Transfer
 Munky,50,151106,Payday,-50,Transfer
 Munky,50,151119,Payday,-50,Transfer
+Munky,50,151203,Payday,-50,Transfer
+Munky,-470.86,151205,,,XBOne
+Munky,10.00,151208,Gaming,-10.00,Transfer

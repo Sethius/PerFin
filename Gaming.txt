@@ -2,3 +2,7 @@ Gaming,10,151022,Payday,-10,Transfer
 Gaming,10,151106,Payday,-10,Transfer
 Gaming,-9.99,151105,,,XBox_Live
 Gaming,10,151119,Payday,-10,Transfer
+Gaming,10,151203,Payday,-10,Transfer
+Gaming,-9.99,151207,,,Xbox_Live
+Gaming,-9.99,151207,,,XBox_Live
+Gaming,-10.00,151208,Munky,10.00,Transfer

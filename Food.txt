@@ -372,3 +372,15 @@ Food,-27.18,151205,Ate_Vons
 Food,-9.39,151207,,,Ate_Hometown
 Food,-48.58,151208,,,Ate_Oggis
 Food,20.00,151209,Live,-20.00,Transfer
+Food,140,160106,Payday,-140,Transfer
+Food,-4.10,151220,,,Ate_Starbucks
+Food,-41.00,151221,,,Ate_Smittys
+Food,-7.85,151221,,,Ate_TacoBell
+Food,-5.38,151221,,,Ate_Connections
+Food,-34.00,151222,,,Ate_Dennys
+Food,-35.00,151225,,,Ate_FlyingBurrito
+Food,140,160106,Payday,-140,Transfer
+Food,-31.07,160104,,,Ate_OliveGarden
+Food,-3.97,150105,,,Ate_Wendys
+Food,-37.03,150105,,,Ate_RedRobin
+Food,-80.86,150106,Live,80.86,Transfer

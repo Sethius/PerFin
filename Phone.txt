@@ -36,3 +36,6 @@ Phone,30,151106,Payday,-30,Transfer
 Phone,-35.00,151113,,,Paid_BoostBill
 Phone,30,151119,Payday,-30,Transfer
 Phone,30,151203,Payday,-30,Transfer
+Phone,30,160106,Payday,-30,Transfer
+Phone,-35.00,151220,,,Paid_Boost
+Phone,30,160106,Payday,-30,Transfer

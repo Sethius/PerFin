@@ -75,3 +75,7 @@ Gas,-27.47,151126,,,Gas_Shell
 Gas,-29.62,151129,,,Gas_76
 Gas,32.37,151130,Live,-32.37,Transfer
 Gas,50,151203,Payday,-50,Transfer
+Gas,-29.54,151211,,,Bought_Gas
+Gas,-25.77,151217,,,Bought_Gas
+Gas,50,160106,Payday,-50,Transfer
+Gas,50,160106,Payday,-50,Transfer

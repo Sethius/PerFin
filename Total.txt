@@ -1666,3 +1666,16 @@ Food,-80.86,150106,Live,80.86,Transfer
 Live,80.86,150106,Food,-80.86,Transfer
 Emergency,-162.00,160106,Live,162.00,Transfer
 Live,162.00,160106,Emergency,-162.00,Transfer
+Food,-9.06,150106,,,Ate_DelTaco
+Gaming,-9.99,150106,,,XBox_Live
+Food,-7.75,150105,,,Ate_Carls
+Food,-11.10,150106,,,Ate_Pastalini
+Gaming,-9.99,150106,,,XBox_Live_Again
+Rent,-250.00,150107,House,250.00,Transfer
+House,250.00,150107,Rent,-250.00,Transfer
+House,-500.00,150107,,,Moved_To_Bank
+Food,-5.59,150110,,,Ate_DelTaco
+Food,-9.91,150110,,,Ate_Popeyes
+Live,-99.00,150110,,,Mead_Tasting
+Live,-3.38,150110,,,Ate_711
+Food,-3.77,150110,,,Ate_Jack

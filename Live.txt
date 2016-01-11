@@ -413,3 +413,5 @@ Live,-25.00,150105,,,Luggage_Fee_Again
 Live,-6.76,150106,,,Correction
 Live,80.86,150106,Food,-80.86,Transfer
 Live,162.00,160106,Emergency,-162.00,Transfer
+Live,-99.00,150110,,,Mead_Tasting
+Live,-3.38,150110,,,Ate_711

@@ -44,3 +44,5 @@ House,215,151203,Payday,-215,Transfer
 House,-500.00,151203,,,Moved_ToBank
 House,215,160106,Payday,-215,Transfer
 House,215,160106,Payday,-215,Transfer
+House,250.00,150107,Rent,-250.00,Transfer
+House,-500.00,150107,,,Moved_To_Bank

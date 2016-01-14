@@ -415,3 +415,6 @@ Live,80.86,150106,Food,-80.86,Transfer
 Live,162.00,160106,Emergency,-162.00,Transfer
 Live,-99.00,150110,,,Mead_Tasting
 Live,-3.38,150110,,,Ate_711
+Live,-12.74,150111,,,Ate_711
+Live,-20.00,150112,,,Whiskey_Paypal
+Live,-8.14,150111,,,Holiday_WineCellar

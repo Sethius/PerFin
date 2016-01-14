@@ -1679,3 +1679,14 @@ Food,-9.91,150110,,,Ate_Popeyes
 Live,-99.00,150110,,,Mead_Tasting
 Live,-3.38,150110,,,Ate_711
 Food,-3.77,150110,,,Ate_Jack
+Food,-8.85,150111,,,Ate_ChickFilA
+Live,-12.74,150111,,,Ate_711
+Food,-6.47,150112,,,Ate_CrazyChicken
+Food,-10.88,150112,,,Ate_DelTaco
+Food,-6.83,150112,,,Ate_711
+Gas,-32.57,150112,,,Bought_Gas
+Live,-20.00,150112,,,Whiskey_Paypal
+Live,-8.14,150111,,,Holiday_WineCellar
+Food,-8.83,150113,,,Ate_Popeyes
+Food,-3.88,150113,,,Ate_711
+Food,-3.12,150113,,,Ate_TacoBell

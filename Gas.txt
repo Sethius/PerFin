@@ -80,3 +80,5 @@ Gas,-25.77,151217,,,Bought_Gas
 Gas,50,160106,Payday,-50,Transfer
 Gas,50,160106,Payday,-50,Transfer
 Gas,-32.57,150112,,,Bought_Gas
+Gas,50,160114,Payday,-50,Transfer
+Gas,-50.00,150115,Live,50.00,Transfer

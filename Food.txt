@@ -397,3 +397,4 @@ Food,-6.83,150112,,,Ate_711
 Food,-8.83,150113,,,Ate_Popeyes
 Food,-3.88,150113,,,Ate_711
 Food,-3.12,150113,,,Ate_TacoBell
+Food,140,160114,Payday,-140,Transfer

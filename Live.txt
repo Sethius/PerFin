@@ -418,3 +418,6 @@ Live,-3.38,150110,,,Ate_711
 Live,-12.74,150111,,,Ate_711
 Live,-20.00,150112,,,Whiskey_Paypal
 Live,-8.14,150111,,,Holiday_WineCellar
+Live,100,160114,Payday,-100,Transfer
+Live,-7.64,150114,,,Ate_711
+Live,50.00,150115,Gas,-50.00,Transfer

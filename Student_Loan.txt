@@ -41,3 +41,9 @@ Student_Loan,20,160106,Payday,-20,Transfer
 Student_Loan,-40.00,151229,,,Paid_StuLo
 Student_Loan,20,160106,Payday,-20,Transfer
 Student_Loan,20,160114,Payday,-20,Transfer
+Student_Loan,-40.00,160129,,,Paid_StuLo
+Student_Loan,20,160303,Payday,-20,Transfer
+Student_Loan,20,160303,Payday,-20,Transfer
+Student_Loan,20,160303,Payday,-20,Transfer
+Student_Loan,-40.00,160301,,,Paid_StuLo
+Student_Loan,20,160311,Payday,-20,Transfer

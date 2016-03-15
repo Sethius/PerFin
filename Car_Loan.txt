@@ -42,3 +42,12 @@ Car_Loan,95,160106,Payday,-95,Transfer
 Car_Loan,-188.52,151231,,,Paid_CarLo
 Car_Loan,95,160106,Payday,-95,Transfer
 Car_Loan,95,160114,Payday,-95,Transfer
+Car_Loan,95,160303,Payday,-95,Transfer
+Car_Loan,-188.52,160131,,,Paid_CarLoan
+Car_Loan,95,160303,Payday,-95,Transfer
+Car_Loan,95,160303,Payday,-95,Transfer
+Car_Loan,-188.52,160229,,,Paid_CarLo
+Car_Loan,95,160311,Payday,-95,Transfer
+Car_Loan,470.88,160315,Pox,-470.88,Transfer
+Car_Loan,423.36,160315,Ins,-423.36,Transfer
+Car_Loan,-1091.00,160315,,,PaidOffCarLoan

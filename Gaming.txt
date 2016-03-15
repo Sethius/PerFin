@@ -11,3 +11,10 @@ Gaming,10,160106,Payday,-10,Transfer
 Gaming,-9.99,150106,,,XBox_Live
 Gaming,-9.99,150106,,,XBox_Live_Again
 Gaming,10,160114,Payday,-10,Transfer
+Gaming,10,160303,Payday,-10,Transfer
+Gaming,10,160303,Payday,-10,Transfer
+Gaming,10,160303,Payday,-10,Transfer
+Gaming,-9.99,160307,,,XBox_Live
+Gaming,-9.99,160306,,,XBoxLive_Again
+Gaming,-20.06,160307,Live,20.06,Transfer
+Gaming,10,160311,Payday,-10,Transfer

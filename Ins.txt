@@ -33,3 +33,8 @@ Ins,65,151203,Payday,-65,Transfer
 Ins,65,160106,Payday,-65,Transfer
 Ins,65,160106,Payday,-65,Transfer
 Ins,65,160114,Payday,-65,Transfer
+Ins,65,160303,Payday,-65,Transfer
+Ins,65,160303,Payday,-65,Transfer
+Ins,65,160303,Payday,-65,Transfer
+Ins,65,160311,Payday,-65,Transfer
+Ins,-423.36,160315,Car_Loan,423.36,Transfer

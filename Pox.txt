@@ -71,3 +71,9 @@ Pox,215,151203,Payday,-215,Transfer
 Pox,215,160106,Payday,-215,Transfer
 Pox,215,160106,Payday,-215,Transfer
 Pox,215,160114,Payday,-215,Transfer
+Pox,215,160303,Payday,-215,Transfer
+Pox,200,160303,Payday,-215,Transfer
+Pox,200,160303,Payday,-215,Transfer
+Pox,-1434.88,160229,,,Paid_Off_StuLo
+Pox,200,160311,Payday,-215,Transfer
+Pox,-470.88,160315,Car_Loan,470.88,Transfer

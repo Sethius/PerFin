@@ -46,3 +46,5 @@ Phone,30,160303,Payday,-30,Transfer
 Phone,-32.03,160222,,,Paid_Boost
 Phone,30,160303,Payday,-30,Transfer
 Phone,30,160311,Payday,-30,Transfer
+Phone,-32.78,160321,,,Paid_Boost
+Phone,30,160325,Payday,-30,Transfer

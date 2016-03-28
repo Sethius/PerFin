@@ -54,3 +54,4 @@ House,200,160303,Payday,-215,Transfer
 House,20.00,160303,Live,-20.00,Transfer
 House,-20.00,160303,Rent,20.00,Transfer
 House,200,160311,Payday,-215,Transfer
+House,350,160325,Payday,-350,Transfer

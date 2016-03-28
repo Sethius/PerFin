@@ -465,3 +465,11 @@ Food,-11.82,160314,,,Ate_Wienerschnitzel
 Food,-9.90,160314,,,Ate_Popeyes
 Food,7.77,160315,,,Correction
 Food,-25.25,160315,,,Ate_MiramarCafe
+Food,-25.25,160316,,,Ate_MiramarCafe
+Food,-17.00,160317,,,Ate_MiramarCafe
+Food,14.53,160324,Live,-14.53,Transfer
+Food,140,160325,Payday,-140,Transfer
+Food,-8.09,160325,,,Ate_Jack
+Food,-7.72,160326,,,Ate_Chipotle
+Food,-16.72,160328,Good,16.72,Transfer
+Food,-5.59,160328,,,Ate_Carls

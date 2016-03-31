@@ -2018,3 +2018,12 @@ Good,-16.72,160326,,,Ate_TacoBar
 Food,-16.72,160328,Good,16.72,Transfer
 Good,16.72,160328,Food,-16.72,Transfer
 Food,-5.59,160328,,,Ate_Carls
+Food,-8.64,160329,,,Ate_DelTaco
+Questionable,40.00,160329,,,MiscPayCo_DOEP_Treas
+Questionable,-40.00,160329,Emergency,40.00,Transfer
+Emergency,40.00,160329,Questionable,-40.00,Transfer
+Food,-9.29,160329,,,Ate_Panda
+Food,-11.17,160329,,,Ate_DelTaco
+Live,-5.58,160329,,,Ate_711
+Food,-15.10,160331,,,Ate_Submarina
+Live,-6.25,160330,,,Ate_711

@@ -79,3 +79,8 @@ Emergency,-324.34,160324,Live,324.34,Transfer
 Emergency,45.00,160324,Student_Loan,-45.00,Transfer
 Emergency,350,160325,Payday,-350,Transfer
 Emergency,40.00,160329,Questionable,-40.00,Transfer
+Emergency,0.13,160331,,,Earned_Interest
+Emergency,350,160407,Payday,-350,Transfer
+Emergency,11.00,160408,Payday,-11.00,Transfer
+Emergency,-990.00,160418,,,Paid_FedTaxes
+Emergency,-78.00,160418,,,Paid_CATaxes

@@ -39,3 +39,7 @@ Ins,65,160303,Payday,-65,Transfer
 Ins,65,160311,Payday,-65,Transfer
 Ins,-423.36,160315,Car_Loan,423.36,Transfer
 Ins,65,160325,Payday,-65,Transfer
+Ins,-180.00,160403,,,Car_Alignment
+Ins,50.00,160404,Gas,-50.00,Transfer
+Ins,65,160407,Payday,-65,Transfer
+Ins,-180.87,160409,,,Tires_Firestone

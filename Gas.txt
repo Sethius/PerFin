@@ -95,3 +95,7 @@ Gas,50,160311,Payday,-50,Transfer
 Gas,-20.83,160317,,,Bought_Gas
 Gas,50,160325,Payday,-50,Transfer
 Gas,-24.56,160327,,,Bought_Gas
+Gas,-29.35,160402,,,Bought_Gas
+Gas,-50.00,160404,Ins,50.00,Transfer
+Gas,50,160407,Payday,-50,Transfer
+Gas,-25.48,160410,,,Arco_Gas

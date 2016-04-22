@@ -443,3 +443,14 @@ Payday,-10,160407,Gaming,10,Transfer
 Payday,-11.00,160408,Emergency,11.00,Transfer
 Payday,-11.00,160408,House,11.00,Transfer
 Payday,-10.00,160408,Live,10.00,Transfer
+Payday,1440.70,160422,,,Paycheck
+Payday,-250,160422,Rent,250,Transfer
+Payday,-65,160422,Ins,65,Transfer
+Payday,-50,160422,Gas,50,Transfer
+Payday,-20,160422,Phone,20,Transfer
+Payday,-140,160422,Food,140,Transfer
+Payday,-120,160422,Live,120,Transfer
+Payday,-365,160422,Emergency,365,Transfer
+Payday,-365,160422,House,365,Transfer
+Payday,-50,160422,Munky,50,Transfer
+Payday,-15,160422,Gaming,15,Transfer

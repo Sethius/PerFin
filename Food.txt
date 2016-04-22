@@ -497,3 +497,7 @@ Food,-11.24,160417,,,Ate_FattesPizza
 Food,-4.32,160417,,,Ate_Jack
 Food,-10.58,160419,,,Ate_Waba
 Food,-25.00,160420,Live,25.00,Transfer
+Food,-5.40,160421,,,Ate_McDonalds
+Food,-7.72,160421,,,Ate_Chipotle
+Food,-6.25,160421,,,Ate_711
+Food,140,160422,Payday,-140,Transfer

@@ -508,3 +508,6 @@ Live,-6.25,160417,,,Ate_711
 Live,6.39,160418,,,Correction
 Live,-7.64,160419,,,Ate_711
 Live,25.00,160420,Food,-25.00,Transfer
+Live,-7.64,160420,,,Ate_711
+Live,-5.84,160421,,,Ate_Chevron
+Live,120,160422,Payday,-120,Transfer

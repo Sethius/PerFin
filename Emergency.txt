@@ -84,3 +84,5 @@ Emergency,350,160407,Payday,-350,Transfer
 Emergency,11.00,160408,Payday,-11.00,Transfer
 Emergency,-990.00,160418,,,Paid_FedTaxes
 Emergency,-78.00,160418,,,Paid_CATaxes
+Emergency,-500.00,160420,,,Moved_ToBank
+Emergency,365,160422,Payday,-365,Transfer

@@ -52,3 +52,7 @@ Phone,-141.61,160403,,,Bought_Phone
 Phone,30,160407,Payday,-30,Transfer
 Phone,-32.03,160420,,,Paid_Phone
 Phone,20,160422,Payday,-20,Transfer
+Phone,20,160505,Payday,-20,Transfer
+Phone,-32.03,160520,,,Paid_Boost
+Phone,20,160520,Payday,-20,Transfer
+Phone,20,160602,Payday,-20,Transfer

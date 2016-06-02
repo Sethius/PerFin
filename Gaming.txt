@@ -23,3 +23,9 @@ Gaming,-9.99,160406,,,XBoxLive
 Gaming,10,160407,Payday,-10,Transfer
 Gaming,-9.99,160408,,,XBoxLive
 Gaming,15,160422,Payday,-15,Transfer
+Gaming,15,160505,Payday,-15,Transfer
+Gaming,-9.99,160508,,,Xbone_Live
+Gaming,-14.99,160508,,,ESO_Subscription
+Gaming,15,160520,Payday,-15,Transfer
+Gaming,-10.00,160531,,,Miden_Quest
+Gaming,15,160602,Payday,-15,Transfer

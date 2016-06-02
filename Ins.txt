@@ -45,3 +45,11 @@ Ins,65,160407,Payday,-65,Transfer
 Ins,-180.87,160409,,,Tires_Firestone
 Ins,65,160422,Payday,-65,Transfer
 Ins,-1.23,160422,,,Last_CarPmt
+Ins,-122.00,160423,,,Paid_CarRegistration
+Ins,-48.00,160427,,,AAA_Renew
+Ins,65,160505,Payday,-65,Transfer
+Ins,-462.15,160512,,,Ignition_Coils
+Ins,75,160520,Payday,-75,Transfer
+Ins,40.00,160520,Live,-40.00,Transfer
+Ins,82.00,160524,Emergency,-82.00,Transfer
+Ins,75,160602,Payday,-75,Transfer

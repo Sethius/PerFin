@@ -86,3 +86,13 @@ Emergency,-990.00,160418,,,Paid_FedTaxes
 Emergency,-78.00,160418,,,Paid_CATaxes
 Emergency,-500.00,160420,,,Moved_ToBank
 Emergency,365,160422,Payday,-365,Transfer
+Emergency,-326.88,160425,,,Dr_Sabet
+Emergency,0.12,160430,,,Earned_Interest
+Emergency,365,160505,Payday,-365,Transfer
+Emergency,1000.00,160505,,,Moved_ToBank
+Emergency,-2000.00,160505,,,Correction
+Emergency,365,160520,Payday,-365,Transfer
+Emergency,-82.00,160524,Ins,82.00,Transfer
+Emergency,0.07,160531,,,Earned_Interest
+Emergency,-148.00,160601,Munky,148.00,Transfer
+Emergency,365,160602,Payday,-365,Transfer

@@ -549,3 +549,9 @@ Food,-6.25,160529,,,Ate_DelTaco
 Food,-6.25,160528,,,Ate_711
 Food,-43.75,160601,,,Habaneros_withLG
 Food,140,160602,Payday,-140,Transfer
+Food,-11.25,160602,,,Ate_711
+Food,-11.25,160605,,,Ate_711
+Food,-4.32,160605,,,Ate_Jack
+Food,-8.32,160605,,,Ate_Chipotle
+Food,-93.42,160606,,,Ate_Dennys_Pico
+Food,-5.39,160607,,,Ate_Carls

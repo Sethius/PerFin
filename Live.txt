@@ -530,3 +530,5 @@ Live,-10.00,160523,,,Bought_Avabur
 Live,-7.08,160527,,,Ate_711
 Live,-7.65,160602,,,Ate_711
 Live,110,160602,Payday,-110,Transfer
+Live,-6.40,160604,,,Ate_711
+Live,-7.65,160606,,,Ate_711

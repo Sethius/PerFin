@@ -2286,3 +2286,12 @@ Munky,50,160602,Payday,-50,Transfer
 Payday,-50,160602,Munky,50,Transfer
 Gaming,15,160602,Payday,-15,Transfer
 Payday,-15,160602,Gaming,15,Transfer
+Food,-11.25,160602,,,Ate_711
+Live,-6.40,160604,,,Ate_711
+Food,-11.25,160605,,,Ate_711
+Food,-4.32,160605,,,Ate_Jack
+Food,-8.32,160605,,,Ate_Chipotle
+Live,-7.65,160606,,,Ate_711
+Food,-93.42,160606,,,Ate_Dennys_Pico
+Food,-5.39,160607,,,Ate_Carls
+Gaming,-9.99,160607,,,XBone_Live

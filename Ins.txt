@@ -53,3 +53,4 @@ Ins,75,160520,Payday,-75,Transfer
 Ins,40.00,160520,Live,-40.00,Transfer
 Ins,82.00,160524,Emergency,-82.00,Transfer
 Ins,75,160602,Payday,-75,Transfer
+Ins,75,160629,Payday,-75,Transfer

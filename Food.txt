@@ -555,3 +555,12 @@ Food,-4.32,160605,,,Ate_Jack
 Food,-8.32,160605,,,Ate_Chipotle
 Food,-93.42,160606,,,Ate_Dennys_Pico
 Food,-5.39,160607,,,Ate_Carls
+Food,-28.35,160612,,,Ate_Vons
+Food,-8.32,160612,,,Ate_Chipotle
+Food,-15.00,160612,,,Ate_RoughDraft
+Food,-64.00,160612,,,Ate_Pho
+Food,-6.59,160615,,,Ate_InNOut
+Food,-13.57,160615,,,Ate_Vons
+Food,-53.00,160516,,,Ate_LoveBoatSushi
+Food,140,160629,Payday,-140,Transfer
+Food,137.17,160617,Payday,-137.17,Transfer

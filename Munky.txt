@@ -46,3 +46,7 @@ Munky,50,160520,Payday,-50,Transfer
 Munky,40.00,160520,Live,-40.00,Transfer
 Munky,148.00,160601,Emergency,-148.00,Transfer
 Munky,50,160602,Payday,-50,Transfer
+Munky,50,160629,Payday,-50,Transfer
+Munky,-100.00,160620,Live,100.00,Transfer
+Munky,-50.00,160629,Gas,50.00,Transfer
+Munky,-350.00,160629,Live,350.00,Transfer

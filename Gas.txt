@@ -109,3 +109,11 @@ Gas,50,160520,Payday,-50,Transfer
 Gas,-27.58,160523,,,Bought_ArcoGas
 Gas,-30.57,160531,,,Bought_Chevron
 Gas,50,160602,Payday,-50,Transfer
+Gas,-31.32,160608,,,Bought_Chevron
+Gas,-28.35,160611,,,Bought_Arco
+Gas,-30.69,160614,,,Bought_Arco
+Gas,50,160629,Payday,-50,Transfer
+Gas,-25.35,160619,,,Gas_Arco
+Gas,-32.81,160623,,,Gas_Chevron
+Gas,50.00,160629,Munky,-50.00,Transfer
+Gas,-32.21,160629,,,Bought_Chevron

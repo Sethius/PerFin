@@ -58,3 +58,4 @@ Phone,20,160520,Payday,-20,Transfer
 Phone,20,160602,Payday,-20,Transfer
 Phone,20,160629,Payday,-20,Transfer
 Phone,-30.99,160622,,,Paid_Boost
+Phone,20,160701,Payday,-20,Transfer

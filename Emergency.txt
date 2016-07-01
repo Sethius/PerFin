@@ -97,3 +97,5 @@ Emergency,0.07,160531,,,Earned_Interest
 Emergency,-148.00,160601,Munky,148.00,Transfer
 Emergency,365,160602,Payday,-365,Transfer
 Emergency,365,160629,Payday,-365,Transfer
+Emergency,0.14,160630,,,Earned_Interest
+Emergency,365,160701,Payday,-365,Transfer

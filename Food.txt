@@ -564,3 +564,4 @@ Food,-13.57,160615,,,Ate_Vons
 Food,-53.00,160516,,,Ate_LoveBoatSushi
 Food,140,160629,Payday,-140,Transfer
 Food,137.17,160617,Payday,-137.17,Transfer
+Food,140,160701,Payday,-140,Transfer

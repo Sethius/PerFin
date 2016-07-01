@@ -64,3 +64,4 @@ House,365,160520,Payday,-365,Transfer
 House,365,160602,Payday,-365,Transfer
 House,365,160629,Payday,-365,Transfer
 House,3767.56,160630,,,Moved_FromBank
+House,365,160701,Payday,-365,Transfer

@@ -499,3 +499,14 @@ Payday,-365,160629,House,365,Transfer
 Payday,-50,160629,Munky,50,Transfer
 Payday,-15,160629,Gaming,15,Transfer
 Payday,-137.17,160617,Food,137.17,Transfer
+Payday,1440.72,160701,,,Paycheck
+Payday,-250,160701,Rent,250,Transfer
+Payday,-75,160701,Ins,75,Transfer
+Payday,-50,160701,Gas,50,Transfer
+Payday,-20,160701,Phone,20,Transfer
+Payday,-140,160701,Food,140,Transfer
+Payday,-110,160701,Live,110,Transfer
+Payday,-365,160701,Emergency,365,Transfer
+Payday,-365,160701,House,365,Transfer
+Payday,-50,160701,Munky,50,Transfer
+Payday,-15,160701,Gaming,15,Transfer

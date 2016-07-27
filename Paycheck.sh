@@ -15,8 +15,8 @@ echo Payday,$paycheck,$(date +%y%m%d),,,Paycheck >> Total.txt
 ##Some of these will need to be updated periodically to reflect changes in priority
 echo Rent,250,$(date +%y%m%d),Payday,-250,Transfer | tee -a Rent.txt Total.txt >/dev/null
 echo Payday,-250,$(date +%y%m%d),Rent,250,Transfer | tee -a Payday.txt Total.txt >/dev/null
-echo Ins,75,$(date +%y%m%d),Payday,-75,Transfer | tee -a Ins.txt Total.txt >/dev/null
-echo Payday,-75,$(date +%y%m%d),Ins,75,Transfer | tee -a Payday.txt Total.txt >/dev/null
+echo Car,75,$(date +%y%m%d),Payday,-75,Transfer | tee -a Car.txt Total.txt >/dev/null
+echo Payday,-75,$(date +%y%m%d),Car,75,Transfer | tee -a Payday.txt Total.txt >/dev/null
 echo Gas,50,$(date +%y%m%d),Payday,-50,Transfer | tee -a Gas.txt Total.txt >/dev/null
 echo Payday,-50,$(date +%y%m%d),Gas,50,Transfer | tee -a Payday.txt Total.txt >/dev/null
 echo Phone,20,$(date +%y%m%d),Payday,-20,Transfer | tee -a Phone.txt Total.txt >/dev/null

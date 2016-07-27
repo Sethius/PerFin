@@ -32,3 +32,5 @@ Gaming,15,160602,Payday,-15,Transfer
 Gaming,-9.99,160607,,,XBone_Live
 Gaming,15,160629,Payday,-15,Transfer
 Gaming,15,160701,Payday,-15,Transfer
+Gaming,-24.98,160707,,,Questionable_Xbox
+Gaming,15,160714,Payday,-15,Transfer

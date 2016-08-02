@@ -603,3 +603,10 @@ Food,-6.48,160725,,,Ate_DelTaco
 Food,-4.32,160725,,,Ate_Jack
 Food,-8.05,160726,,,Ate_Croutons
 Food,11.00,160727,Live,-10.00,Transfer
+Food,140,160729,Payday,-140,Transfer
+Food,-10.57,160731,,,Ate_Vons
+Food,-8.20,160731,,,Ate_DelTaco
+Food,-3.88,160731,,,Ate_Jack
+Food,-2.37,160801,,,Ate_Jack
+Food,-16.63,160801,,,Ate_Chipotle
+Food,-5.39,160801,,,Ate_Carls

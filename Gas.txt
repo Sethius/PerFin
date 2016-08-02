@@ -122,3 +122,4 @@ Gas,-26.60,160704,,,Arco_Gas
 Gas,50,160714,Payday,-50,Transfer
 Gas,-27.94,160714,,,Bought_ARCO
 Gas,-28.14,160723,,,Bought_Arco
+Gas,50,160729,Payday,-50,Transfer

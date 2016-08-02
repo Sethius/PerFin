@@ -101,3 +101,6 @@ Emergency,0.14,160630,,,Earned_Interest
 Emergency,365,160701,Payday,-365,Transfer
 Emergency,-1260.40,160713,House,1260.40,Transfer
 Emergency,365,160714,Payday,-365,Transfer
+Emergency,365,160729,Payday,-365,Transfer
+Emergency,0.13,160731,,,Earned_Interest
+Emergency,6.00,160801,Payday,-6.00,Transfer

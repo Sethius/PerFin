@@ -2527,3 +2527,16 @@ Payday,-6.00,160801,Emergency,6.00,Transfer
 Emergency,6.00,160801,Payday,-6.00,Transfer
 Live,-5.59,160802,,,Ate_711
 Food,-5.39,160801,,,Ate_Carls
+Food,-7.01,160802,,,Ate_CrazyChicken
+Live,-11.25,160802,,,Ate_711
+Food,-18.28,160802,,,Ate_DelTaco
+Food,-8.94,160803,,,Ate_McDonalds
+Live,-6.84,160803,,,Ate_711
+Emergency,17.64,160804,Questionable,-17.64,Transfer
+Questionable,-17.64,160804,Emergency,17.64,Transfer
+Live,-5.59,160805,,,Ate_711
+Food,-18.31,160805,,,Ate_RotisserieAffair
+Munky,149.99,160805,Rent,-149.99,Transfer
+Rent,-149.99,160805,Munky,149.99,Transfer
+Emergency,100.01,160805,Rent,-100.01,Transfer
+Rent,-100.01,160805,Emergency,100.01,Transfer

@@ -610,3 +610,7 @@ Food,-3.88,160731,,,Ate_Jack
 Food,-2.37,160801,,,Ate_Jack
 Food,-16.63,160801,,,Ate_Chipotle
 Food,-5.39,160801,,,Ate_Carls
+Food,-7.01,160802,,,Ate_CrazyChicken
+Food,-18.28,160802,,,Ate_DelTaco
+Food,-8.94,160803,,,Ate_McDonalds
+Food,-18.31,160805,,,Ate_RotisserieAffair

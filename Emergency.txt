@@ -109,3 +109,8 @@ Emergency,100.01,160805,Rent,-100.01,Transfer
 Emergency,380,160811,Payday,-380,Transfer
 Emergency,380,160825,Payday,-380,Transfer
 Emergency,-400.00,160826,Car,400.00,Transfer
+Emergency,0.21,160831,,,Earned_Interest
+Emergency,380,160908,Payday,-380,Transfer
+Emergency,380,160923,Payday,-380,Transfer
+Emergency,0.30,160930,,,Earned_Interest
+Emergency,380,161007,Payday,-380,Transfer

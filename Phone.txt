@@ -65,3 +65,8 @@ Phone,20,160729,Payday,-20,Transfer
 Phone,20,160811,Payday,-20,Transfer
 Phone,-30.99,160820,,,Paid_Boost
 Phone,20,160825,Payday,-20,Transfer
+Phone,20,160908,Payday,-20,Transfer
+Phone,-30.99,160922,,,Paid_Boost
+Phone,20,160923,Payday,-20,Transfer
+Phone,20,161007,Payday,-20,Transfer
+Phone,-229.00,161013,Live,229.00,Transfer

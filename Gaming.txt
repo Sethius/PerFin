@@ -38,3 +38,10 @@ Gaming,15,160729,Payday,-15,Transfer
 Gaming,-24.98,160807,,,XBone_Subscriptions
 Gaming,15,160811,Payday,-15,Transfer
 Gaming,15,160825,Payday,-15,Transfer
+Gaming,-24.98,160906,,,Paid_Xbox
+Gaming,15,160908,Payday,-15,Transfer
+Gaming,-22.00,160914,,,Scottrade
+Gaming,15,160923,Payday,-15,Transfer
+Gaming,-32.39,161003,,,Gamestop_RemoteCharger
+Gaming,15,161007,Payday,-15,Transfer
+Gaming,-24.98,161006,,,XBone_Subscriptions

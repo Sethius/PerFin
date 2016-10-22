@@ -60,3 +60,7 @@ Car,75,160729,Payday,-75,Transfer
 Car,85,160811,Payday,-85,Transfer
 Car,85,160825,Payday,-85,Transfer
 Car,400.00,160826,Emergency,-400.00,Transfer
+Car,85,160908,Payday,-85,Transfer
+Car,85,160923,Payday,-85,Transfer
+Car,-908.00,160929,,,Paid_AAA_Insurance
+Car,85,161007,Payday,-85,Transfer

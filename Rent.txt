@@ -63,3 +63,7 @@ Rent,-149.99,160805,Munky,149.99,Transfer
 Rent,-100.01,160805,Emergency,100.01,Transfer
 Rent,250,160811,Payday,-250,Transfer
 Rent,250,160825,Payday,-250,Transfer
+Rent,250,160908,Payday,-250,Transfer
+Rent,250,160923,Payday,-250,Transfer
+Rent,-2000.00,160923,,,Paid_JuneJulyAugSept
+Rent,250,161007,Payday,-250,Transfer

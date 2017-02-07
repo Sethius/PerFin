@@ -3,6 +3,8 @@
 #Initial setup, Parses input from the format 
 #+Account,Amount,Date,Account2,Amount2,Note
 
+
+
 v=$1
 IFS=, read -a v <<<"$v"
 text=$(printf '%s\n' "${v[0]}")

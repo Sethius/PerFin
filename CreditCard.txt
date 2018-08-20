@@ -1,0 +1,10 @@
+CreditCard,24.47,180803,,,Start
+CreditCard,30,180803,Payday,-30,Transfer
+CreditCard,-200.00,180806,,,Paid_Credit_card
+CreditCard,145.53,180806,Debts,-145.53,Transfer
+CreditCard,-74.25,180808,Invest,74.25,Transfer
+CreditCard,-1762.47,180808,,,Paid_Off_CreditCard
+CreditCard,303.81,180808,Debts,-303.81,Transfer
+CreditCard,45.20,180809,Debts,-45.20,Transfer
+CreditCard,30,180817,Payday,-30,Transfer
+CreditCard,75.00,180817,Debts,-75.00,Transfer

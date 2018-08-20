@@ -1,0 +1,9 @@
+Debts,81.55,180803,,,Start
+Debts,100,180803,Payday,-100,Transfer
+Debts,-145.53,180806,CreditCard,145.53,Transfer
+Debts,267.80,180808,Mortgage,-267.80,Transfer
+Debts,-303.81,180808,CreditCard,303.81,Transfer
+Debts,45.20,180809,HOA,-45.20,Transfer
+Debts,-45.20,180809,CreditCard,45.20,Transfer
+Debts,75,180817,Payday,-75,Transfer
+Debts,-75.00,180817,CreditCard,75.00,Transfer

@@ -1,0 +1,5 @@
+Upgrades,69.32,180803,,,Start
+Extras,85,180803,Payday,-85,Transfer
+Extras,267.80,180808,Mortgage,-267.80,Transfer
+Extras,45.20,180809,HOA,-45.20,Transfer
+Extras,80,180817,Payday,-80,Transfer

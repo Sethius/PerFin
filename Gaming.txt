@@ -1,2 +1,6 @@
 Gaming,12.23,180803,,,Start
 Gaming,15,180803,Payday,-15,Transfer
+Gaming,-14.99,180807,,,XBOX_Live
+Gaming,-14.99,180810,,,ESO
+Gaming,2.76,180813,Live,-2.76,Transfer
+Gaming,15,180817,Payday,-15,Transfer

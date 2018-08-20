@@ -1,2 +1,0 @@
-Food,122.33,180803,,,Start
-Food,150,180803,Payday,-150,Transfer

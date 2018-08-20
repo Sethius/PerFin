@@ -4,3 +4,9 @@ Live,0.10,180803,,Adjustment
 Live,-30.00,180803,,,Pet_supplies
 Live,-26.90,180804,,,Went_to_Movies
 Live,-70.59,180806,Internet,70.59,Transfer
+Live,267.80,180808,Mortgage,-267.80,Transfer
+Live,45.20,180809,HOA,-45.20,Transfer
+Live,272.33,180813,Food,272.33,Transfer
+Live,-2.76,180813,Gaming,2.76,Transfer
+Live,233,180817,Payday,-233,Transfer
+Live,-696.42,180820,,,AC_and_Food

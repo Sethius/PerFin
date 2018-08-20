@@ -1,0 +1,4 @@
+Utilities,32.62,180803,,,Start
+SDGE,40,180803,Payday,-40,Transfer
+SDGE,40,180817,Payday,-40,Transfer
+SDGE,-43.21,180820,,,Last_Electric_ForestGlen

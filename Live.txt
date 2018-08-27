@@ -10,3 +10,4 @@ Live,272.33,180813,Food,272.33,Transfer
 Live,-2.76,180813,Gaming,2.76,Transfer
 Live,233,180817,Payday,-233,Transfer
 Live,-696.42,180820,,,AC_and_Food
+Live,1114.32,180827,Extras,-1114.32,Transfer

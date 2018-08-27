@@ -3,3 +3,5 @@ Extras,85,180803,Payday,-85,Transfer
 Extras,267.80,180808,Mortgage,-267.80,Transfer
 Extras,45.20,180809,HOA,-45.20,Transfer
 Extras,80,180817,Payday,-80,Transfer
+Extras,400.00,180824,,,From_SDCCU
+Extras,-1114.32,180827,Live,1114.32,Transfer

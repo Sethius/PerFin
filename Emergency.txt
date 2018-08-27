@@ -4,3 +4,4 @@ Emergency,-300.00,180806,,,Moved_to_Bank
 Emergency,267.80,180808,Mortgage,-267.80,Transfer
 Emergency,45.20,180809,HOA,-45.20,Transfer
 Emergency,150,180817,Payday,-150,Transfer
+Emergency,400.00,180824,,,From_SDCCU

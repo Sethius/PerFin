@@ -131,3 +131,14 @@ Debts,-75.00,180817,CreditCard,75.00,Transfer
 Phone,-30.00,180820,,,Paid_Boost
 Live,-696.42,180820,,,AC_and_Food
 SDGE,-43.21,180820,,,Last_Electric_ForestGlen
+SDGE,-78.28,180821,,,Calle_Bill
+Gas,-46.31,180822,,,Gas_ARCO
+Payday,-0.03,180822,,,Adjustment
+Payday,0.06,180822,,,Adjustment
+SDGE,-43.21,180822,,,Overpaid_SDGE
+CreditCard,400.00,180824,,,From_SDCCU
+Emergency,400.00,180824,,,From_SDCCU
+Extras,400.00,180824,,,From_SDCCU
+Invest,400.00,180824,,,From_SDCCU
+Live,1114.32,180827,Extras,-1114.32,Transfer
+Extras,-1114.32,180827,Live,1114.32,Transfer

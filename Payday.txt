@@ -32,3 +32,5 @@ Payday,-40,180817,SDGE,40,Transfer
 Payday,-75,180817,Debts,75,Transfer
 Payday,-75,180817,Invest,75,Transfer
 Payday,-10.00,180817,HOA,10.00,Transfer
+Payday,-0.03,180822,,,Adjustment
+Payday,0.06,180822,,,Adjustment

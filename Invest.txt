@@ -3,3 +3,4 @@ Invest,267.80,180808,Mortgage,-267.80,Transfer
 Invest,74.25,180808,CreditCard,-74.25,Transfer
 Invest,45.20,180809,HOA,-45.20,Transfer
 Invest,75,180817,Payday,-75,Transfer
+Invest,400.00,180824,,,From_SDCCU

@@ -7,3 +7,5 @@ Debts,45.20,180809,HOA,-45.20,Transfer
 Debts,-45.20,180809,CreditCard,45.20,Transfer
 Debts,75,180817,Payday,-75,Transfer
 Debts,-75.00,180817,CreditCard,75.00,Transfer
+Debts,60,180830,Payday,-60,Transfer
+Debts,-60.00,180830,CreditCard,60.00,Transfer

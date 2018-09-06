@@ -49,3 +49,4 @@ Payday,-135,180830,HOA,135,Transfer
 Payday,-40,180830,SDGE,40,Transfer
 Payday,-60,180830,Debts,60,Transfer
 Payday,-60,180830,Invest,60,Transfer
+Payday,0.09,180905,,,Interest_earned

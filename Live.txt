@@ -13,3 +13,6 @@ Live,-696.42,180820,,,AC_and_Food
 Live,1114.32,180827,Extras,-1114.32,Transfer
 Live,-16.94,180829,,,Spending
 Live,197,180830,Payday,-197,Transfer
+Live,-12.40,180905,HOA,12.40,Transfer
+Live,9.45,180905,,,Adjustment
+Live,-1358.88,180905,,,Paid_Card

@@ -175,3 +175,17 @@ Invest,60,180830,Payday,-60,Transfer
 Payday,-60,180830,Invest,60,Transfer
 Debts,-60.00,180830,CreditCard,60.00,Transfer
 CreditCard,60.00,180830,Debts,-60.00,Transfer
+Gaming,-9.99,180830,,,XBOX
+Mortgage,-1475.78,180831,,,Paid_Mortgage
+Gas,-49.73,180902,,,Shell_Gas
+Gas,-46.31,180904,,,Arco_Gas
+Internet,-49.99,180905,,,Cox_Bill
+HOA,-282.40,180905,,,Paid_HOA
+HOA,12.40,180905,Live,-12.40,Transfer
+Live,-12.40,180905,HOA,12.40,Transfer
+Live,9.45,180905,,,Adjustment
+Car,-527.00,180905,,,Paid_AAA
+Car,249.00,180905,Emergency,-249.00,Transfer
+Emergency,-249.00,180905,Car,249.00,Transfer
+Payday,0.09,180905,,,Interest_earned
+Live,-1358.88,180905,,,Paid_Card

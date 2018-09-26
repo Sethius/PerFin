@@ -16,3 +16,8 @@ Live,197,180830,Payday,-197,Transfer
 Live,-12.40,180905,HOA,12.40,Transfer
 Live,9.45,180905,,,Adjustment
 Live,-1358.88,180905,,,Paid_Card
+Live,-4.45,180913,,,Chevron_Drinks
+Live,197,180914,Payday,-197,Transfer
+Live,-30.00,180917,,,Pet_food
+Live,3.00,180921,Payday,-3.00,Transfer
+Live,-21.81,180923,,,Ate_DoorDash

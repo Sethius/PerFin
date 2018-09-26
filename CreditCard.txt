@@ -11,3 +11,6 @@ CreditCard,75.00,180817,Debts,-75.00,Transfer
 CreditCard,400.00,180824,,,From_SDCCU
 CreditCard,30,180830,Payday,-30,Transfer
 CreditCard,60.00,180830,Debts,-60.00,Transfer
+CreditCard,30,180914,Payday,-30,Transfer
+CreditCard,60.00,180914,Debts,-60.00,Transfer
+CreditCard,450.00,180914,Emergency,-450.00,Transfer

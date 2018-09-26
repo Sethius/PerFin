@@ -9,3 +9,8 @@ Gas,-35.93,180828,,,Gas_ARCO
 Gas,140,180830,Payday,-140,Transfer
 Gas,-49.73,180902,,,Shell_Gas
 Gas,-46.31,180904,,,Arco_Gas
+Gas,-31.65,180907,,,ARCO_Gas
+Gas,130,180914,Payday,-130,Transfer
+Gas,-39.23,180914,,,Chevron_Gas
+Gas,-45.35,180920,,,ARCO_Gas
+Gas,-35.81,180925,,,ARCO_Gas

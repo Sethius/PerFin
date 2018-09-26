@@ -6,3 +6,5 @@ Gaming,2.76,180813,Live,-2.76,Transfer
 Gaming,15,180817,Payday,-15,Transfer
 Gaming,15,180830,Payday,-15,Transfer
 Gaming,-9.99,180830,,,XBOX
+Gaming,-14.99,180910,,,ESO
+Gaming,15,180914,Payday,-15,Transfer

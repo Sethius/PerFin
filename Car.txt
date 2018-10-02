@@ -5,3 +5,5 @@ Car,73,180830,Payday,-73,Transfer
 Car,-527.00,180905,,,Paid_AAA
 Car,249.00,180905,Emergency,-249.00,Transfer
 Car,73,180914,Payday,-73,Transfer
+Car,73,180928,Payday,-73,Transfer
+Car,-39.42,181002,,,Oil_Change

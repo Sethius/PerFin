@@ -7,3 +7,4 @@ Extras,400.00,180824,,,From_SDCCU
 Extras,-1114.32,180827,Live,1114.32,Transfer
 Extras,65,180830,Payday,-65,Transfer
 Extras,65,180914,Payday,-65,Transfer
+Extras,65,180928,Payday,-65,Transfer

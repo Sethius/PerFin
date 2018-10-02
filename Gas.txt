@@ -14,3 +14,5 @@ Gas,130,180914,Payday,-130,Transfer
 Gas,-39.23,180914,,,Chevron_Gas
 Gas,-45.35,180920,,,ARCO_Gas
 Gas,-35.81,180925,,,ARCO_Gas
+Gas,130,180928,Payday,-130,Transfer
+Gas,-35.14,180927,,,ARCO_Gas

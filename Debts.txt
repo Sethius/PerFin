@@ -11,3 +11,5 @@ Debts,60,180830,Payday,-60,Transfer
 Debts,-60.00,180830,CreditCard,60.00,Transfer
 Debts,60,180914,Payday,-60,Transfer
 Debts,-60.00,180914,CreditCard,60.00,Transfer
+Debts,60,180928,Payday,-60,Transfer
+Debts,-60.00,180928,CreditCard,60.00,Transfer

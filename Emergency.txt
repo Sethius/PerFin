@@ -12,3 +12,5 @@ Emergency,-450.00,180914,CreditCard,450.00,Transfer
 Emergency,-450.00,180914,,,Sent_to_Savings
 Emergency,80.17,180919,SDGE,80.17,Transfer
 Emergency,-160.34,180919,,,Correction
+Emergency,135,180928,Payday,-135,Transfer
+Emergency,-85.00,180928,Live,85.00,Transfer

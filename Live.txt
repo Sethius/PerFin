@@ -21,3 +21,6 @@ Live,197,180914,Payday,-197,Transfer
 Live,-30.00,180917,,,Pet_food
 Live,3.00,180921,Payday,-3.00,Transfer
 Live,-21.81,180923,,,Ate_DoorDash
+Live,197,180928,Payday,-197,Transfer
+Live,-509.13,180928,,,Paid_Card
+Live,85.00,180928,Emergency,-85.00,Transfer

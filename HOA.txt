@@ -13,3 +13,6 @@ HOA,-282.40,180905,,,Paid_HOA
 HOA,12.40,180905,Live,-12.40,Transfer
 HOA,135,180914,Payday,-135,Transfer
 HOA,135,180928,Payday,-135,Transfer
+HOA,-272.95,181004,,,Paid_HOA
+HOA,2.95,181004,Emergency,-2.95,Transfer
+HOA,135,181012,Payday,-135,Transfer

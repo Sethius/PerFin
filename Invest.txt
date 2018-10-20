@@ -7,3 +7,5 @@ Invest,400.00,180824,,,From_SDCCU
 Invest,60,180830,Payday,-60,Transfer
 Invest,60,180914,Payday,-60,Transfer
 Invest,60,180928,Payday,-60,Transfer
+Invest,-470.00,181010,,,LoanTo_Oklahoma
+Invest,60,181012,Payday,-60,Transfer

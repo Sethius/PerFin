@@ -16,3 +16,6 @@ CreditCard,60.00,180914,Debts,-60.00,Transfer
 CreditCard,450.00,180914,Emergency,-450.00,Transfer
 CreditCard,30,180928,Payday,-30,Transfer
 CreditCard,60.00,180928,Debts,-60.00,Transfer
+CreditCard,30,181012,Payday,-30,Transfer
+CreditCard,60.00,181012,Debts,-60.00,Transfer
+CreditCard,30.00,181015,Emergency,-30.00,Transfer

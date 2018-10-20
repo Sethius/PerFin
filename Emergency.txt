@@ -14,3 +14,9 @@ Emergency,80.17,180919,SDGE,80.17,Transfer
 Emergency,-160.34,180919,,,Correction
 Emergency,135,180928,Payday,-135,Transfer
 Emergency,-85.00,180928,Live,85.00,Transfer
+Emergency,-2.95,181004,HOA,2.95,Transfer
+Emergency,135,181012,Payday,-135,Transfer
+Emergency,-30.00,181015,Live,30.00,Transfer
+Emergency,-30.00,181015,Extras,30.00,Transfer
+Emergency,-30.00,181015,CreditCard,30.00,Transfer
+Emergency,-30.00,181015,,,MovedTo_Bank

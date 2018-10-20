@@ -8,3 +8,6 @@ Extras,-1114.32,180827,Live,1114.32,Transfer
 Extras,65,180830,Payday,-65,Transfer
 Extras,65,180914,Payday,-65,Transfer
 Extras,65,180928,Payday,-65,Transfer
+
+Extras,65,181012,Payday,-65,Transfer
+Extras,30.00,181015,Emergency,-30.00,Transfer

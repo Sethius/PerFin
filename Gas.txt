@@ -21,3 +21,5 @@ Gas,-33.81,181010,,,Gas_ARCO
 Gas,130,181012,Payday,-130,Transfer
 Gas,-46.90,181016,,,Gas_ARCO
 Gas,-40.35,181019,,,Gas_ARCO
+Gas,130,181025,Payday,-130,Transfer
+Gas,-37.21,181025,,,Gas_ARCO

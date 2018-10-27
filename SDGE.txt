@@ -10,3 +10,6 @@ SDGE,-118.08,180919,,,Energy_Bill
 SDGE,80.17,180919,Emergency,80.17,Transfer
 SDGE,50,180928,Payday,-50,Transfer
 SDGE,50,181012,Payday,-50,Transfer
+SDGE,-105.09,181022,,,Paid_SDGE
+SDGE,5.09,181024,Live,-5.09,Transfer
+SDGE,50,181025,Payday,-50,Transfer

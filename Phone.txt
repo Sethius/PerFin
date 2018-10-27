@@ -7,3 +7,5 @@ Phone,18,180914,Payday,-18,Transfer
 Phone,-30.00,180920,,,Paid_Boost
 Phone,18,180928,Payday,-18,Transfer
 Phone,18,181012,Payday,-18,Transfer
+Phone,-30.00,181022,,,Paid_Boost
+Phone,18,181025,Payday,-18,Transfer

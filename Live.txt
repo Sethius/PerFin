@@ -29,3 +29,6 @@ Live,-46.02,181006,,,Ate_MountainMikes
 Live,197,181012,Payday,-197,Transfer
 Live,30.00,181015,Emergency,-30.00,Transfer
 Live,-8.60,181018,,,Ate_Jack
+Live,-5.09,181024,SDGE,5.09,Transfer
+Live,197,181025,Payday,-197,Transfer
+Live,-243.00,181025,,,Paid_Card

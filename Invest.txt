@@ -9,3 +9,4 @@ Invest,60,180914,Payday,-60,Transfer
 Invest,60,180928,Payday,-60,Transfer
 Invest,-470.00,181010,,,LoanTo_Oklahoma
 Invest,60,181012,Payday,-60,Transfer
+Invest,60,181025,Payday,-60,Transfer

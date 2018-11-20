@@ -10,3 +10,5 @@ Internet,25,180928,Payday,-25,Transfer
 Internet,-49.99,181009,,,Paid_Cox
 Internet,25,181012,Payday,-25,Transfer
 Internet,25,181025,Payday,-25,Transfer
+Internet,-49.99,181105,,,Paid_Cox
+Internet,25,181108,Payday,-25,Transfer

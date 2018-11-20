@@ -9,3 +9,4 @@ Car,73,180928,Payday,-73,Transfer
 Car,-39.42,181002,,,Oil_Change
 Car,73,181012,Payday,-73,Transfer
 Car,73,181025,Payday,-73,Transfer
+Car,73,181108,Payday,-73,Transfer

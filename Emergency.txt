@@ -23,3 +23,4 @@ Emergency,-30.00,181015,,,MovedTo_Bank
 Emergency,135,181025,Payday,-135,Transfer
 Emergency,-52.71,181025,CreditCard,52.71,Transfer
 Emergency,-100.00,181025,,,Moved_ToBank
+Emergency,141,181108,Payday,-141,Transfer

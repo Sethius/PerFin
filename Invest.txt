@@ -10,3 +10,5 @@ Invest,60,180928,Payday,-60,Transfer
 Invest,-470.00,181010,,,LoanTo_Oklahoma
 Invest,60,181012,Payday,-60,Transfer
 Invest,60,181025,Payday,-60,Transfer
+Invest,66,181108,Payday,-66,Transfer
+Invest,-450.00,181119,,,Lent_to_Tristan

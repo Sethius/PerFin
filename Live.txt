@@ -36,3 +36,12 @@ Live,198,181108,Payday,-198,Transfer
 Live,-65.82,181109,,,Paid_Card
 Live,-37.26,181113,,,Ate_And_Cashback_ARCO
 Live,-109.00,181119,,,Card_Pmt
+Live,198,181121,Payday,-198,Transfer
+Live,-37.26,181126,,,Provisions_ARCO
+Live,-206.00,181126,,,Paid_CC
+Live,-36.53,181126,,,DoorDash
+Live,198,181206,Payday,-198,Transfer
+Live,-251.56,181206,,,Paid_CC
+Live,61.00,181206,Emergency,-61.00,Transfer
+Live,-91.38,181208,,,Munka_Xmas
+Live,-100.00,181214,,,Tristan_Loan

@@ -15,3 +15,5 @@ SDGE,5.09,181024,Live,-5.09,Transfer
 SDGE,50,181025,Payday,-50,Transfer
 SDGE,50,181108,Payday,-50,Transfer
 SDGE,-45.99,181120,,,Paid_SDGE
+SDGE,50,181121,Payday,-50,Transfer
+SDGE,50,181206,Payday,-50,Transfer

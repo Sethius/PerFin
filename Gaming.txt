@@ -14,3 +14,6 @@ Gaming,15,181012,Payday,-15,Transfer
 Gaming,15,181025,Payday,-15,Transfer
 Gaming,15,181108,Payday,-15,Transfer
 Gaming,-14.99,181114,,,ESO
+Gaming,15,181121,Payday,-15,Transfer
+Gaming,15,181206,Payday,-15,Transfer
+Gaming,-14.99,181210,,,Xbox_Live

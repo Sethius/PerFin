@@ -16,3 +16,6 @@ Debts,-60.00,180928,CreditCard,60.00,Transfer
 Debts,60,181012,Payday,-60,Transfer
 Debts,-60.00,181012,CreditCard,60.00,Transfer
 Debts,60,181025,Payday,-60,TransferDebts,66,181108,Payday,-66,Transfer
+Debts,78,181121,Payday,-78,Transfer
+Debts,150.00,181121,Emergency,-150.00,Transfer
+Debts,78,181206,Payday,-78,Transfer

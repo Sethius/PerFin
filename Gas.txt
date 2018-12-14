@@ -30,3 +30,11 @@ Gas,-33.44,181108,,,Gas_ARCO
 Gas,130,181108,Payday,-130,Transfer
 Gas,-31.87,181113,,,Gas_ARCO
 Gas,-42.26,181119,,,ARCO_Gas
+Gas,130,181121,Payday,-130,Transfer
+Gas,-25.38,181122,,,Gas_ARCO
+Gas,-22.57,181126,,,Gas_ARCO
+Gas,-27.92,181128,,,Gas_CircleK
+Gas,-28.27,181203,,,Bought_Gas
+Gas,130,181206,Payday,-130,Transfer
+Gas,-26.92,181207,,,CircleK_Gas
+Gas,-26.61,181212,,,Circle_K

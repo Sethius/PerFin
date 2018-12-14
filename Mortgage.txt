@@ -17,3 +17,6 @@ Mortgage,738,181012,Payday,-738,Transfer
 Mortgage,738,181025,Payday,-738,Transfer
 Mortgage,-1475.78,181101,,,Paid_Mortgage
 Mortgage,738,181108,Payday,-738,Transfer
+Mortgage,738,181121,Payday,-738,Transfer
+Mortgage,-1475.78,181203,,,Paid_Mortgage
+Mortgage,738,181206,Payday,-738,Transfer

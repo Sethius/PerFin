@@ -12,3 +12,5 @@ Invest,60,181012,Payday,-60,Transfer
 Invest,60,181025,Payday,-60,Transfer
 Invest,66,181108,Payday,-66,Transfer
 Invest,-450.00,181119,,,Lent_to_Tristan
+Invest,78,181121,Payday,-78,Transfer
+Invest,78,181206,Payday,-78,Transfer

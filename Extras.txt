@@ -14,3 +14,5 @@ Extras,30.00,181015,Emergency,-30.00,Transfer
 Extras,65,181025,Payday,-65,Transfer
 Extras,71,181108,Payday,-71,Transfer
 Extras,-142.50,181116,,,Hired_Plumber
+Extras,83,181121,Payday,-83,Transfer
+Extras,83,181206,Payday,-83,Transfer

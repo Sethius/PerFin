@@ -489,3 +489,5 @@ Live,-91.38,181208,,,Munka_Xmas
 Gaming,-14.99,181210,,,Xbox_Live
 Gas,-26.61,181212,,,Circle_K
 Live,-100.00,181214,,,Tristan_Loan
+Gas,-30.72,181218,,,CircleK_Gas
+SDGE,-66.02,181219,,,Paid_SDGE

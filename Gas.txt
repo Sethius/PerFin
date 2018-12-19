@@ -38,3 +38,4 @@ Gas,-28.27,181203,,,Bought_Gas
 Gas,130,181206,Payday,-130,Transfer
 Gas,-26.92,181207,,,CircleK_Gas
 Gas,-26.61,181212,,,Circle_K
+Gas,-30.72,181218,,,CircleK_Gas

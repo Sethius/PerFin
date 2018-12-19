@@ -17,3 +17,4 @@ SDGE,50,181108,Payday,-50,Transfer
 SDGE,-45.99,181120,,,Paid_SDGE
 SDGE,50,181121,Payday,-50,Transfer
 SDGE,50,181206,Payday,-50,Transfer
+SDGE,-66.02,181219,,,Paid_SDGE

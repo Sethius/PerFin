@@ -13,3 +13,15 @@ Phone,18,181108,Payday,-18,Transfer
 Phone,-30.00,181120,,,Paid_Boost
 Phone,18,181121,Payday,-18,Transfer
 Phone,18,181206,Payday,-18,Transfer
+Phone,-30.00,181220,,,Paid_Boost
+Phone,18,181220,Payday,-18,Transfer
+Phone,-30.00,181223,,,Paid_Boost
+Phone,30.00,190103,,,Adjustment
+Phone,18,190103,Payday,-18,Transfer
+Phone,18,190117,Payday,-18,Transfer
+Phone,-30.00,190120,,,Paid_Boost
+Phone,18,190130,Payday,-18,Transfer
+Phone,18,190214,Payday,-18,Transfer
+Phone,-30.00,190220,,,Paid_Boost
+Phone,18,190305,Payday,-18,Transfer
+Phone,18,190313,Payday,-18,Transfer

@@ -17,3 +17,14 @@ Gaming,-14.99,181114,,,ESO
 Gaming,15,181121,Payday,-15,Transfer
 Gaming,15,181206,Payday,-15,Transfer
 Gaming,-14.99,181210,,,Xbox_Live
+Gaming,15,181220,Payday,-15,Transfer
+Gaming,15,190103,Payday,-15,Transfer
+Gaming,-14.99,190110,,,ESO
+Gaming,15,190117,Payday,-15,Transfer
+Gaming,15,190130,Payday,-15,Transfer
+Gaming,-14.99,190210,,,ESO
+Gaming,-1.99,190209,,,Valve
+Gaming,15,190214,Payday,-15,Transfer
+Gaming,15,190305,Payday,-15,Transfer
+Gaming,-14.99,190310,,,ESO
+Gaming,15,190313,Payday,-15,Transfer

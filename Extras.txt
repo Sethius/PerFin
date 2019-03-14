@@ -16,3 +16,15 @@ Extras,71,181108,Payday,-71,Transfer
 Extras,-142.50,181116,,,Hired_Plumber
 Extras,83,181121,Payday,-83,Transfer
 Extras,83,181206,Payday,-83,Transfer
+Extras,83,181220,Payday,-83,Transfer
+Extras,83,190103,Payday,-83,Transfer
+Extras,83,190117,Payday,-83,Transfer
+Extras,83,190130,Payday,-83,Transfer
+Extras,83,190214,Payday,-83,Transfer
+Extras,73,190305,Payday,-73,Transfer
+Extras,147.91,190305,Mortgage,-147.91,Transfer
+Extras,33.05,190305,HOA,-33.05,Transfer
+Extras,-900.00,190311,Live,900.00,Transfer
+Extras,58.50,190311,Payday,-58.50,Transfer
+Extras,66.50,190313,Payday,-66.50,Transfer
+Extras,73,190313,Payday,-73,Transfer

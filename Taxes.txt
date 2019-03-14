@@ -1,0 +1,4 @@
+Taxes,108,190130,Payday,-108,Transfer
+Taxes,108,190214,Payday,-108,Transfer
+Taxes,108,190305,Payday,-108,Transfer
+Taxes,108,190313,Payday,-108,Transfer

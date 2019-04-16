@@ -33,3 +33,10 @@ Debts,58.50,190311,Payday,-58.50,Transfer
 Debts,66.50,190313,Payday,-66.50,Transfer
 Debts,68,190313,Payday,-68,Transfer
 Debts,95.00,190313,Emergency,-95.00,Transfer
+Debts,12.17,130314,Payday,-12.17,Transfer
+Debts,68,190328,Payday,-68,Transfer
+Debts,51.91,190328,Emergency,-51.91,Transfer
+Debts,108.00,190403,Taxes,-108.00,Transfer
+Debts,30.00,190410,Gas,-30.00,Transfer
+Debts,68,190411,Payday,-68,Transfer
+Debts,140.00,190411,Emergency,-140.00,Transfer

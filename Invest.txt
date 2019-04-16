@@ -30,3 +30,8 @@ Invest,33.05,190305,HOA,-33.05,Transfer
 Invest,58.50,190311,Payday,-58.50,Transfer
 Invest,66.50,190313,Payday,-66.50,Transfer
 Invest,68,190313,Payday,-68,Transfer
+Invest,12.17,130314,Payday,-12.17,Transfer
+Invest,68,190328,Payday,-68,Transfer
+Invest,108.00,190403,Taxes,-108.00,Transfer
+Invest,30.00,190410,Gas,-30.00,Transfer
+Invest,68,190411,Payday,-68,Transfer

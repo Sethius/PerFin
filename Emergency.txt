@@ -51,3 +51,13 @@ Emergency,143,190313,Payday,-143,Transfer
 Emergency,-95.00,190313,Live,95.00,Transfer
 Emergency,-95.00,190313,Debts,95.00,Transfer
 Emergency,-95.00,190313,,,Moved_to_Savings
+Emergency,12.17,130314,Payday,-12.17,Transfer
+Emergency,143,190328,Payday,-143,Transfer
+Emergency,-51.91,190328,Debts,51.91,Transfer
+Emergency,-51.91,190328,Live,51.91,Transfer
+Emergency,-51.91,190328,,,Moved_to_Savings
+Emergency,108.00,190403,Taxes,-108.00,Transfer
+Emergency,30.00,190410,Gas,-30.00,Transfer
+Emergency,143,190411,Payday,-143,Transfer
+Emergency,-140.00,190411,Debts,140.00,Transfer
+Emergency,-140.00,190411,,,Moved_To_Savings

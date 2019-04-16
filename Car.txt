@@ -21,3 +21,8 @@ Car,90,190130,Payday,-90,Transfer
 Car,90,190214,Payday,-90,Transfer
 Car,90,190305,Payday,-90,Transfer
 Car,90,190313,Payday,-90,Transfer
+Car,90,190328,Payday,-90,Transfer
+Car,-43.63,190403,,,Oil_Change
+Car,150.00,190410,Gas,-150.00,Transfer
+Car,95,190411,Payday,-95,Transfer
+Car,-60.00,190413,,,Smog_Check

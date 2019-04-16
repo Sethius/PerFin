@@ -25,3 +25,6 @@ Internet,25,190214,Payday,-25,Transfer
 Internet,25,190305,Payday,-25,Transfer
 Internet,-49.99,170308,,,Paid_Cox
 Internet,25,190313,Payday,-25,Transfer
+Internet,25,190328,Payday,-25,Transfer
+Internet,-49.99,190405,,,Cox_Internet
+Internet,25,190411,Payday,-25,Transfer

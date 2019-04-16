@@ -28,3 +28,8 @@ Extras,-900.00,190311,Live,900.00,Transfer
 Extras,58.50,190311,Payday,-58.50,Transfer
 Extras,66.50,190313,Payday,-66.50,Transfer
 Extras,73,190313,Payday,-73,Transfer
+Extras,12.17,130314,Payday,-12.17,Transfer
+Extras,73,190328,Payday,-73,Transfer
+Extras,108.00,190403,Taxes,-108.00,Transfer
+Extras,30.00,190410,Gas,-30.00,Transfer
+Extras,73,190411,Payday,-73,Transfer

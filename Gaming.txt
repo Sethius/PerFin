@@ -28,3 +28,7 @@ Gaming,15,190214,Payday,-15,Transfer
 Gaming,15,190305,Payday,-15,Transfer
 Gaming,-14.99,190310,,,ESO
 Gaming,15,190313,Payday,-15,Transfer
+Gaming,-22.49,190325,,,GOG_Thronebreaker
+Gaming,15,190328,Payday,-15,Transfer
+Gaming,-14.99,190410,,,ESO_Sub
+Gaming,15,190411,Payday,-15,Transfer

@@ -37,3 +37,6 @@ HOA,-33.05,190305,Extras,33.05,Transfer
 HOA,-33.05,190305,Invest,33.05,Transfer
 HOA,-33.05,190305,Live,33.05,Transfer
 HOA,140,190313,Payday,-140,Transfer
+HOA,140,190328,Payday,-140,Transfer
+HOA,-272.95,190401,,,Paid_HOA
+HOA,140,190411,Payday,-140,Transfer

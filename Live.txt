@@ -80,3 +80,11 @@ Live,-803.49,190312,,,Paid_CC
 Live,66.50,190313,Payday,-66.50,Transfer
 Live,109,190313,Payday,-109,Transfer
 Live,95.00,190313,Emergency,-95.00,Transfer
+Live,12.17,130314,Payday,-12.17,Transfer
+Live,109,190328,Payday,-109,Transfer
+Live,-171.48,190328,,,Paid_CC
+Live,51.91,190328,Emergency,-51.91,Transfer
+Live,108.00,190403,Taxes,-108.00,Transfer
+Live,30.00,190410,Gas,-30.00,Transfer
+Live,114,190411,Payday,-114,Transfer
+Live,-104.80,190411,,,Paid_CC

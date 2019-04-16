@@ -36,3 +36,6 @@ Mortgage,-147.91,190305,Extras,147.91,Transfer
 Mortgage,-147.91,190305,Invest,147.91,Transfer
 Mortgage,-147.91,190305,Live,147.91,Transfer
 Mortgage,738,190313,Payday,-738,Transfer
+Mortgage,738,190328,Payday,-738,Transfer
+Mortgage,-1475.78,190401,,,Paid_UWM
+Mortgage,738,190411,Payday,-738,Transfer

@@ -2,3 +2,10 @@ Taxes,108,190130,Payday,-108,Transfer
 Taxes,108,190214,Payday,-108,Transfer
 Taxes,108,190305,Payday,-108,Transfer
 Taxes,108,190313,Payday,-108,Transfer
+Taxes,108,190328,Payday,-108,Transfer
+Taxes,-108.00,190403,Debts,108.00,Transfer
+Taxes,-108.00,190403,Emergency,108.00,Transfer
+Taxes,-108.00,190403,Extras,108.00,Transfer
+Taxes,-108.00,190403,Invest,108.00,Transfer
+Taxes,-108.00,190403,Live,108.00,Transfer
+Taxes,108,190411,Payday,-108,Transfer

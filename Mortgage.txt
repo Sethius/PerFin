@@ -39,3 +39,7 @@ Mortgage,738,190313,Payday,-738,Transfer
 Mortgage,738,190328,Payday,-738,Transfer
 Mortgage,-1475.78,190401,,,Paid_UWM
 Mortgage,738,190411,Payday,-738,Transfer
+Mortgage,738,190425,Payday,-738,Transfer
+Mortgage,-1475.78,190501,,,Paid_Mortgage
+Mortgage,738,190509,Payday,-738,Transfer
+Mortgage,738,190523,Payday,-738,Transfer

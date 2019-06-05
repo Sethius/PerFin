@@ -26,3 +26,8 @@ Car,-43.63,190403,,,Oil_Change
 Car,150.00,190410,Gas,-150.00,Transfer
 Car,95,190411,Payday,-95,Transfer
 Car,-60.00,190413,,,Smog_Check
+Car,95,190425,Payday,-95,Transfer
+Car,-80.00,190429,,,AAA_Membership
+Car,95,190509,Payday,-95,Transfer
+Car,95,190523,Payday,-95,Transfer
+Car,-140.00,190605,,,DMV_Registration

@@ -61,3 +61,12 @@ Emergency,30.00,190410,Gas,-30.00,Transfer
 Emergency,143,190411,Payday,-143,Transfer
 Emergency,-140.00,190411,Debts,140.00,Transfer
 Emergency,-140.00,190411,,,Moved_To_Savings
+Emergency,555.87,190422,Payday,-555.87,Transfer
+Emergency,1000.00,190422,,,Moved_FromSavings
+Emergency,153,190425,Payday,-153,Transfer
+Emergency,-311.46,190508,Live,311.46,Transfer
+Emergency,-311.46,190508,Debts,311.46,Transfer
+Emergency,-311.46,190508,,,Moved_To_Savings
+Emergency,169,190509,Payday,-169,Transfer
+Emergency,25.00,190516,Internet,-25.00,Transfer
+Emergency,169,190523,Payday,-169,Transfer

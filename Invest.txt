@@ -35,3 +35,8 @@ Invest,68,190328,Payday,-68,Transfer
 Invest,108.00,190403,Taxes,-108.00,Transfer
 Invest,30.00,190410,Gas,-30.00,Transfer
 Invest,68,190411,Payday,-68,Transfer
+Invest,555.87,190422,Payday,-555.87,Transfer
+Invest,335.11,190422,Debts,-335.11,Transfer
+Invest,78,190425,Payday,-78,Transfer
+Invest,94,190509,Payday,-94,Transfer
+Invest,94,190523,Payday,-94,Transfer

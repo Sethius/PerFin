@@ -40,3 +40,10 @@ Debts,108.00,190403,Taxes,-108.00,Transfer
 Debts,30.00,190410,Gas,-30.00,Transfer
 Debts,68,190411,Payday,-68,Transfer
 Debts,140.00,190411,Emergency,-140.00,Transfer
+Debts,555.87,190422,Payday,-555.87,Transfer
+Debts,-335.11,190422,Invest,335.11,Transfer
+Debts,78,190425,Payday,-78,Transfer
+Debts,-8591.34,190503,,,PaidOffFidelity_401k
+Debts,311.46,190508,Emergency,-311.46,Transfer
+Debts,94,190509,Payday,-94,Transfer
+Debts,94,190523,Payday,-94,Transfer

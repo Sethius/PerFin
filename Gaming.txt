@@ -32,3 +32,8 @@ Gaming,-22.49,190325,,,GOG_Thronebreaker
 Gaming,15,190328,Payday,-15,Transfer
 Gaming,-14.99,190410,,,ESO_Sub
 Gaming,15,190411,Payday,-15,Transfer
+Gaming,15,190425,Payday,-15,Transfer
+Gaming,15,190509,Payday,-15,Transfer
+Gaming,-14.99,190509,,,ESO_Monthly
+Gaming,-23.99,190520,,,Shadow_of_War
+Gaming,15,190523,Payday,-15,Transfer

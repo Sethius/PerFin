@@ -33,3 +33,9 @@ Extras,73,190328,Payday,-73,Transfer
 Extras,108.00,190403,Taxes,-108.00,Transfer
 Extras,30.00,190410,Gas,-30.00,Transfer
 Extras,73,190411,Payday,-73,Transfer
+Extras,555.87,190422,Payday,-555.87,Transfer
+Extras,-476.00,190414,Live,476.00,Transfer
+Extras,83,190425,Payday,-83,Transfer
+Extras,99,190509,Payday,-99,Transfer
+Extras,-1600.00,190522,,,Munkas_Joe
+Extras,99,190523,Payday,-99,Transfer

@@ -40,3 +40,8 @@ HOA,140,190313,Payday,-140,Transfer
 HOA,140,190328,Payday,-140,Transfer
 HOA,-272.95,190401,,,Paid_HOA
 HOA,140,190411,Payday,-140,Transfer
+HOA,140,190425,Payday,-140,Transfer
+HOA,-272.95,190501,,,Paid_HOA
+HOA,150,190509,Payday,-150,Transfer
+HOA,150,190523,Payday,-150,Transfer
+HOA,-297.95,190531,,,Paid_HOA

@@ -82,3 +82,15 @@ Gas,-30.00,190410,Live,30.00,Transfer
 Gas,120,190411,Payday,-120,Transfer
 Gas,-24.73,190415,,,CircleK_Gas
 Gas,-20.00,190415,,,CircleK_Gas
+Gas,-37.61,190423,,,CircleK_Gas
+Gas,120,190425,Payday,-120,Transfer
+Gas,-39.63,190429,,,CircleK_Gas
+Gas,-44.73,190502,,,CircleK_Gas
+Gas,-36.63,190508,,,CircleK_Gas
+Gas,120,190509,Payday,-120,Transfer
+Gas,-40.40,190513,,,CircleK_Gas
+Gas,-33.71,190517,,,CircleK_Gas
+Gas,-36.97,190523,,,CircleK_Gas
+Gas,120,190523,Payday,-120,Transfer
+Gas,-34.28,190530,,,CircleK_Gas
+Gas,-32.65,190605,,,CircleK_Gas

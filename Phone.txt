@@ -28,3 +28,8 @@ Phone,18,190313,Payday,-18,Transfer
 Phone,-30.00,190320,,,Paid_Boost
 Phone,18,190328,Payday,-18,Transfer
 Phone,18,190411,Payday,-18,Transfer
+Phone,-30.00,190420,,,Paid_Boost
+Phone,18,190425,Payday,-18,Transfer
+Phone,18,190509,Payday,-18,Transfer
+Phone,-30.00,190520,,,Paid_Boost
+Phone,18,190523,Payday,-18,Transfer

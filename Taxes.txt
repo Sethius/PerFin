@@ -9,3 +9,6 @@ Taxes,-108.00,190403,Extras,108.00,Transfer
 Taxes,-108.00,190403,Invest,108.00,Transfer
 Taxes,-108.00,190403,Live,108.00,Transfer
 Taxes,108,190411,Payday,-108,Transfer
+Taxes,58,190425,Payday,-58,Transfer
+Taxes,58,190509,Payday,-58,Transfer
+Taxes,58,190523,Payday,-58,Transfer

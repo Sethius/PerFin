@@ -40,3 +40,9 @@ Invest,335.11,190422,Debts,-335.11,Transfer
 Invest,78,190425,Payday,-78,Transfer
 Invest,94,190509,Payday,-94,Transfer
 Invest,94,190523,Payday,-94,Transfer
+Invest,94,190606,Payday,-94,Transfer
+Invest,94,190620,Payday,-94,Transfer
+Invest,-250.00,190625,,,Check_to_Dad
+Invest,94,190715,Payday,-94,Transfer
+Invest,94,190718,Payday,-94,Transfer
+Invest,94,190801,Payday,-94,Transfer

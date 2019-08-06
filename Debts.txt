@@ -47,3 +47,16 @@ Debts,-8591.34,190503,,,PaidOffFidelity_401k
 Debts,311.46,190508,Emergency,-311.46,Transfer
 Debts,94,190509,Payday,-94,Transfer
 Debts,94,190523,Payday,-94,Transfer
+Debts,94,190606,Payday,-94,Transfer
+Debts,213.23,190606,Emergency,-213.23,Transfer
+Debts,151,190610,Emergency,-151,Transfer
+Debts,94,190620,Payday,-94,Transfer
+Debts,50.00,190620,Emergency,-50.00,Transfer
+Debts,94,190715,Payday,-94,Transfer
+Debts,30.20,190715,Emergency,-33.20,Transfer
+Debts,3.00,190715,,,Correction
+Debts,94,190718,Payday,-94,Transfer
+Debts,58.71,190718,Emergency,-58.71,Transfer
+Debts,94,190801,Payday,-94,Transfer
+Debts,56.33,190801,Emergency,-56.33,Transfer
+Debts,303.03,190802,Emergency,-303.03,Transfer

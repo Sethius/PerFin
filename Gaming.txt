@@ -37,3 +37,12 @@ Gaming,15,190509,Payday,-15,Transfer
 Gaming,-14.99,190509,,,ESO_Monthly
 Gaming,-23.99,190520,,,Shadow_of_War
 Gaming,15,190523,Payday,-15,Transfer
+Gaming,15,190606,Payday,-15,Transfer
+Gaming,-14.99,190610,,,Microsoft_ProbablyXbox
+Gaming,15,190620,Payday,-15,Transfer
+Gaming,-59.99,190623,,,XboxLiveAnnual
+Gaming,15,190715,Payday,-15,Transfer
+Gaming,-14.99,190711,,,ESO
+Gaming,15,190718,Payday,-15,Transfer
+Gaming,-9.99,190728,,,Xbox_Halo5
+Gaming,15,190801,Payday,-15,Transfer

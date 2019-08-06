@@ -33,3 +33,10 @@ Phone,18,190425,Payday,-18,Transfer
 Phone,18,190509,Payday,-18,Transfer
 Phone,-30.00,190520,,,Paid_Boost
 Phone,18,190523,Payday,-18,Transfer
+Phone,18,190606,Payday,-18,Transfer
+Phone,-30.00,190620,,,Paid_Boost
+Phone,18,190620,Payday,-18,Transfer
+Phone,18,190715,Payday,-18,Transfer
+Phone,18,190718,Payday,-18,Transfer
+Phone,-30.00,190720,,,Paid_Boost
+Phone,18,190801,Payday,-18,Transfer

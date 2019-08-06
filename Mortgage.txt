@@ -43,3 +43,12 @@ Mortgage,738,190425,Payday,-738,Transfer
 Mortgage,-1475.78,190501,,,Paid_Mortgage
 Mortgage,738,190509,Payday,-738,Transfer
 Mortgage,738,190523,Payday,-738,Transfer
+Mortgage,738,190606,Payday,-738,Transfer
+Mortgage,-1475.78,190607,,,Paid_Mortage_FirstNewRezPmt
+Mortgage,738,190620,Payday,-738,Transfer
+Mortgage,-1475.78,190701,,,Paid_Mortgage_NewRez
+Mortgage,738,190715,Payday,-738,Transfer
+Mortgage,738,190718,Payday,-738,Transfer
+Mortgage,738,190801,Payday,-738,Transfer
+Mortgage,-1475.78,190802,,,Paid_NewRez
+Mortgage,-739.00,190802,Emergency,739.00,Transfer

@@ -46,3 +46,5 @@ Invest,-250.00,190625,,,Check_to_Dad
 Invest,94,190715,Payday,-94,Transfer
 Invest,94,190718,Payday,-94,Transfer
 Invest,94,190801,Payday,-94,Transfer
+Invest,91,190815,Payday,-91,Transfer
+Invest,91,190830,Payday,-91,Transfer

@@ -52,3 +52,7 @@ Extras,99,190718,Payday,-99,Transfer
 Extras,12.00,190718,Emergency,-12.00,Transfer
 Extras,99,190801,Payday,-99,Transfer
 Extras,-300.00,190804,,,Munky_Registration
+Extras,38.75,190815,Emergency,-38.75,Transfer
+Extras,96,190815,Payday,-96,Transfer
+Extras,41.50,190830,Emergency,-41.50,Transfer
+Extras,96,190830,Payday,-96,Transfer

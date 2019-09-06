@@ -36,3 +36,5 @@ Car,95,190620,Payday,-95,Transfer
 Car,95,190715,Payday,-95,Transfer
 Car,95,190718,Payday,-95,Transfer
 Car,95,190801,Payday,-95,Transfer
+Car,95,190815,Payday,-95,Transfer
+Car,95,190830,Payday,-95,Transfer

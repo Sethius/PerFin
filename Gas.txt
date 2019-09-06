@@ -127,3 +127,10 @@ Gas,-33.13,190728,,,Patriot_Gas
 Gas,120,190801,Payday,-120,Transfer
 Gas,-31.95,190802,,,Patriot_Gas
 Gas,-32.67,190806,,,Patriot_Gas
+Gas,-35.56,190814,,,CircleK_Gas
+Gas,11.00,190515,Emergency,-11.00,Transfer
+Gas,120,190815,Payday,-120,Transfer
+Gas,-32.72,190821,,,Patriot_Gas
+Gas,120,190830,Payday,-120,Transfer
+Gas,-33.71,190830,,,Patriot_Gas
+Gas,-15.16,190827,,,Chevron_Gas

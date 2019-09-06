@@ -17,3 +17,5 @@ Taxes,58,190620,Payday,-58,Transfer
 Taxes,58,190715,Payday,-58,Transfer
 Taxes,58,190718,Payday,-58,Transfer
 Taxes,58,190801,Payday,-58,Transfer
+Taxes,58,190815,Payday,-58,Transfer
+Taxes,58,190830,Payday,-58,Transfer

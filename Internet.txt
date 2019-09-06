@@ -42,3 +42,6 @@ Internet,-19.10,190717,Emergency,19.10,Transfer
 Internet,40,190718,Payday,-40,Transfer
 Internet,40,190801,Payday,-40,Transfer
 Internet,-79.99,190805,,,Cox_Internet
+Internet,40,190815,Payday,-40,Transfer
+Internet,40,190830,Payday,-40,Transfer
+Internet,-79.99,190904,,,Paid_Cox

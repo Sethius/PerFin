@@ -46,3 +46,6 @@ Gaming,-14.99,190711,,,ESO
 Gaming,15,190718,Payday,-15,Transfer
 Gaming,-9.99,190728,,,Xbox_Halo5
 Gaming,15,190801,Payday,-15,Transfer
+Gaming,-14.99,190810,,,ESO_Subscription
+Gaming,15,190815,Payday,-15,Transfer
+Gaming,15,190830,Payday,-15,Transfer

@@ -106,3 +106,16 @@ Emergency,739.00,190802,Mortgage,-739.00,Transfer
 Emergency,-303.03,190802,Debts,303.03,Transfer
 Emergency,-303.03,190802,Live,303.03,Transfer
 Emergency,-303.03,190802,,,Moved_To_Bank
+Emergency,-11.00,190515,Gas,11.00,Transfer
+Emergency,-38.75,190815,Debts,38.75,Transfer
+Emergency,-38.75,190815,Extras,38.75,Transfer
+Emergency,-38.75,190815,Live,38.75,Transfer
+Emergency,-38.75,190815,,,Moved_To_Bank
+Emergency,166,190815,Payday,-166,Transfer
+Emergency,-41.50,190830,Debts,41.50,Transfer
+Emergency,-41.50,190830,Extras,41.50,Transfer
+Emergency,-41.50,190830,Live,41.50,Transfer
+Emergency,-41.50,190830,,,Moved_to_Bank
+Emergency,166,190830,Payday,-166,Transfer
+Emergency,3.50,190830,Payday,-3.50,Transfer
+Emergency,0.11,190831,,,Earned_Interest

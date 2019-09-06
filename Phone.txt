@@ -40,3 +40,6 @@ Phone,18,190715,Payday,-18,Transfer
 Phone,18,190718,Payday,-18,Transfer
 Phone,-30.00,190720,,,Paid_Boost
 Phone,18,190801,Payday,-18,Transfer
+Phone,18,190815,Payday,-18,Transfer
+Phone,-30.00,190820,,,Paid_Boost
+Phone,18,190830,Payday,-18,Transfer

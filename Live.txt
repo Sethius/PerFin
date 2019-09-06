@@ -134,3 +134,12 @@ Live,-111.19,190801,,,Paid_CC
 Live,56.33,190801,Emergency,-56.33,Transfer
 Live,303.03,190802,Emergency,-303.03,Transfer
 Live,-38.14,190804,,,DoorDash_Panda
+Live,-8.80,190809,,,Ate_Rigobertos
+Live,-101.80,190815,,,Paid_CC
+Live,38.75,190815,Emergency,-38.75,Transfer
+Live,114,190815,Payday,-114,Transfer
+Live,67.07,190830,,,Work_Expense_Fulfilled
+Live,-176.48,190830,,,Paid_CC
+Live,41.50,190830,Emergency,-41.50,Transfer
+Live,114,190830,Payday,-114,Transfer
+Live,-7.50,190902,,,DelMarBeach_Parking

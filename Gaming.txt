@@ -49,3 +49,10 @@ Gaming,15,190801,Payday,-15,Transfer
 Gaming,-14.99,190810,,,ESO_Subscription
 Gaming,15,190815,Payday,-15,Transfer
 Gaming,15,190830,Payday,-15,Transfer
+Gaming,15,190912,Payday,-15,Transfer
+Gaming,-14.99,190912,,,ESO
+Gaming,-26.36,190916,,,Bought_Rage2
+Gaming,15,190926,Payday,-15,Transfer
+Gaming,-4.99,191007,,,Paypal_StarEmpires
+Gaming,-14.99,191010,,,Xbox_Something
+Gaming,15,191010,Payday,-15,Transfer

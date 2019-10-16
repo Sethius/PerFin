@@ -64,3 +64,12 @@ Debts,38.75,190815,Emergency,-38.75,Transfer
 Debts,91,190815,Payday,-91,Transfer
 Debts,41.50,190830,Emergency,-41.50,Transfer
 Debts,91,190830,Payday,-91,Transfer
+Debts,90.00,190910,Emergency,-90.00,Transfer
+Debts,91,190912,Payday,-91,Transfer
+Debts,32.50,190926,Emergency,-32.50,Transfer
+Debts,78,190926,Payday,-78,Transfer
+Debts,105,191004,Emergency,-105,Transfer
+Debts,78,191010,Payday,-78,Transfer
+Debts,38.05,191010,Emergency,-38.05,Transfer
+Debts,-39.41,191014,Invest,39.41,Transfer
+Debts,-500.00,191014,,,Sent_to_Munky

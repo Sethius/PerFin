@@ -143,3 +143,17 @@ Live,-176.48,190830,,,Paid_CC
 Live,41.50,190830,Emergency,-41.50,Transfer
 Live,114,190830,Payday,-114,Transfer
 Live,-7.50,190902,,,DelMarBeach_Parking
+Live,160.09,190907,Extras,-160.09,Transfer
+Live,90.00,190910,Emergency,-90.00,Transfer
+Live,-16.44,190910,,,Chevron_Gas
+Live,114,190912,Payday,-114,Transfer
+Live,-249.30,190912,,,Paid_CC
+Live,-30.38,190915,,,Ate_LaPerla
+Live,1313.00,190926,Phone,-1313.00,Transfer
+Live,-2626.54,190926,,,Paid_CC
+Live,32.50,190926,Emergency,-32.50,Transfer
+Live,59,190926,Payday,-59,Transfer
+Live,105,191004,Emergency,-105,Transfer
+Live,59,191010,Payday,-59,Transfer
+Live,38.05,191010,Emergency,-38.05,Transfer
+Live,-89.26,191010,,,Paid_CC

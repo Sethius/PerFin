@@ -43,3 +43,12 @@ Phone,18,190801,Payday,-18,Transfer
 Phone,18,190815,Payday,-18,Transfer
 Phone,-30.00,190820,,,Paid_Boost
 Phone,18,190830,Payday,-18,Transfer
+Phone,18,190912,Payday,-18,Transfer
+Phone,-30.00,190920,,,Paid_Boost
+Phone,-1313.00,190926,Live,1313.00,Transfer
+Phone,32.50,190926,Emergency,-32.50,Transfer
+Phone,125,190926,Payday,-125,Transfer
+Phone,105,191004,Emergency,-105,Transfer
+Phone,125,191010,Payday,-125,Transfer
+Phone,38.05,191010,Emergency,-38.05,Transfer
+Phone,-170,191013,,,Paid_T-Mobile

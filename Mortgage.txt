@@ -55,3 +55,8 @@ Mortgage,-739.00,190802,Emergency,739.00,Transfer
 Mortgage,738,190815,Payday,-738,Transfer
 Mortgage,738,190830,Payday,-738,Transfer
 Mortgage,-1475.78,190903,,,Paid_NewRez
+Mortgage,738,190912,Payday,-738,Transfer
+Mortgage,738,190926,Payday,-738,Transfer
+Mortgage,-0.50,190930,Emergency,0.50,Transfer
+Mortgage,-1475.78,191002,,,Paid_NewRez
+Mortgage,738,191010,Payday,-738,Transfer

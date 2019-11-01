@@ -157,3 +157,8 @@ Live,105,191004,Emergency,-105,Transfer
 Live,59,191010,Payday,-59,Transfer
 Live,38.05,191010,Emergency,-38.05,Transfer
 Live,-89.26,191010,,,Paid_CC
+Live,690.00,191022,,,From_Car
+Live,59,191024,Payday,-59,Transfer
+Live,-107.50,191024,,,Paid_CC
+Live,127.15,191024,Emergency,-127.15,Transfer
+Live,36.87,191101,Gas,-36.87,Transfer

@@ -50,3 +50,5 @@ SDGE,50,190912,Payday,-50,Transfer
 SDGE,-138.25,190918,,,Paid_SDGE
 SDGE,50,190926,Payday,-50,Transfer
 SDGE,50,191010,Payday,-50,Transfer
+SDGE,-173.29,191022,,,Paid_SDGE
+SDGE,50,191024,Payday,-50,Transfer

@@ -146,3 +146,10 @@ Emergency,-38.05,191010,Debts,38.05,Transfer
 Emergency,-38.05,191010,Live,38.05,Transfer
 Emergency,-38.05,191010,Phone,38.05,Transfer
 Emergency,-38.05,191010,,,Sent_To_Bank
+Emergency,153,191024,Payday,-153,Transfer
+Emergency,355.60,191024,Payday,-355.60,Transfer
+Emergency,-127.15,191024,Debts,127.15,Transfer
+Emergency,-127.15,191024,Live,127.15,Transfer
+Emergency,-127.15,191024,Phone,127.15,Transfer
+Emergency,-127.15,191024,,,Moved_To_Bank
+Emergency,2.00,191101,HOA,-2.00,Transfer

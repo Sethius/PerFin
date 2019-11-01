@@ -52,3 +52,5 @@ Phone,105,191004,Emergency,-105,Transfer
 Phone,125,191010,Payday,-125,Transfer
 Phone,38.05,191010,Emergency,-38.05,Transfer
 Phone,-170,191013,,,Paid_T-Mobile
+Phone,125,191024,Payday,-125,Transfer
+Phone,127.15,191024,Emergency,-127.15,Transfer

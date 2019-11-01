@@ -61,3 +61,6 @@ HOA,150,190926,Payday,-150,Transfer
 HOA,-297.95,190930,,,Paid_HOA
 HOA,-4.00,190930,Emergency,4.00,Transfer
 HOA,150,191010,Payday,-150,Transfer
+HOA,150,191024,Payday,-150,Transfer
+HOA,-297.95,191031,,,Paid_HOA
+HOA,-2.00,191101,Emergency,2.00,Transfer

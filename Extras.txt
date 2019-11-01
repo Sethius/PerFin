@@ -64,3 +64,4 @@ Extras,32.50,190926,Emergency,-32.50,Transfer
 Extras,83,190926,Payday,-83,Transfer
 Extras,87.30,191004,Emergency,-87.30,Transfer
 Extras,83,191010,Payday,-83,Transfer
+Extras,83,191024,Payday,-83,Transfer

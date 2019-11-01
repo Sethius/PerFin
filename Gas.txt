@@ -146,3 +146,7 @@ Gas,-36.44,191004,,,Chevron_Gas
 Gas,-41.12,191008,,,Patriot_Gas
 Gas,120,191010,Payday,-120,Transfer
 Gas,-34.92,191015,,,Patriot_Gas
+Gas,-40.92,191020,,,Chevron_Gas
+Gas,120,191024,Payday,-120,Transfer
+Gas,-35.66,191025,,,Patriot_Gas
+Gas,-36.87,191101,Live,36.87,Transfer

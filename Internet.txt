@@ -49,3 +49,4 @@ Internet,40,190912,Payday,-40,Transfer
 Internet,40,190926,Payday,-40,Transfer
 Internet,-79.99,191007,,,Paid_Cox
 Internet,40,191010,Payday,-40,Transfer
+Internet,40,191024,Payday,-40,Transfer

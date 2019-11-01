@@ -52,3 +52,5 @@ Invest,91,190912,Payday,-91,Transfer
 Invest,78,190926,Payday,-78,Transfer
 Invest,78,191010,Payday,-78,Transfer
 Invest,39.41,191014,Debts,-39.41,Transfer
+Invest,317.62,191023,Payday,-317.62,Transfer
+Invest,78,191024,Payday,-78,Transfer

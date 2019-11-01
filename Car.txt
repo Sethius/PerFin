@@ -41,3 +41,5 @@ Car,95,190830,Payday,-95,Transfer
 Car,95,190912,Payday,-95,Transfer
 Car,95,190926,Payday,-95,Transfer
 Car,95,191010,Payday,-95,Transfer
+Car,-690.00,191022,,,AAA_Car_Insurance
+Car,45,191024,Payday,-45,Transfer

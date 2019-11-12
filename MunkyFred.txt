@@ -1,0 +1,2 @@
+MunkyFred,-452.53,191112,Fred,452.53,Transfer
+MunkyFred,-2800.00,191112,,,Munky_Loan

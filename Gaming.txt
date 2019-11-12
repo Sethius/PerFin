@@ -62,3 +62,5 @@ Gaming,-4.99,191021,,,Star_Realms
 Gaming,15,191024,Payday,-15,Transfer
 Gaming,-1.99,191025,,,StarRealms
 Gaming,-3.99,191028,,,Star_Realms
+Gaming,25,191108,Payday,-25,Transfer
+Gaming,-14.99,191111,,,ESO_Subscription

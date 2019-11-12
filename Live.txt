@@ -162,3 +162,9 @@ Live,59,191024,Payday,-59,Transfer
 Live,-107.50,191024,,,Paid_CC
 Live,127.15,191024,Emergency,-127.15,Transfer
 Live,36.87,191101,Gas,-36.87,Transfer
+Live,100.50,191101,Emergency,-100.50,Transfer
+Live,149,191108,Payday,-149,Transfer
+Live,337.88,191108,Phone,-337.88,Transfer
+Live,-825.09,191108,,,Paid_CC
+Live,68.67,191108,Emergency,-68.67,Transfer
+Live,-21.59,191110,,,Ate_Habit

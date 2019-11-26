@@ -56,3 +56,8 @@ Invest,317.62,191023,Payday,-317.62,Transfer
 Invest,78,191024,Payday,-78,Transfer
 Invest,130,191108,Payday,-130,Transfer
 Invest,161.62,191112,Debts,-161.62,Transfer
+Invest,-150.00,191114,Emergency,150.00,Transfer
+Invest,130,191121,Payday,-130,Transfer
+Invest,60.00,191121,Fred,-60.00,Transfer
+Invest,-375.00,191121,Emergency,375.00,Transfer
+Invest,-170.00,191121,Emergency,170.00,Transfer

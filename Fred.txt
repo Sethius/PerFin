@@ -1,2 +1,3 @@
 Fred,2817.62,191023,Payday,-2817.62,Transfer
 Fred,452.53,191112,MunkyFred,-452.53,Transfer
+Fred,-60.00,191121,Invest,60.00,Transfer

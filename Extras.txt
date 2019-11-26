@@ -66,3 +66,6 @@ Extras,87.30,191004,Emergency,-87.30,Transfer
 Extras,83,191010,Payday,-83,Transfer
 Extras,83,191024,Payday,-83,Transfer
 Extras,130,191108,Payday,-130,Transfer
+Extras,130,191121,Payday,-130,Transfer
+Extras,-314.98,191123,,,Turtapod_Supplies
+Extras,-250.00,191125,,,Sent_ToMonica_TurtapodSupplies

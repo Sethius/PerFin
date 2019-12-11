@@ -1,3 +1,4 @@
 MunkyFred,-452.53,191112,Fred,452.53,Transfer
 MunkyFred,-2800.00,191112,,,Munky_Loan
 MunkyFred,46,191121,Payday,-46,Transfer
+MunkyFred,46,191205,Payday,-46,Transfer

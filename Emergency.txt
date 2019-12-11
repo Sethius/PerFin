@@ -177,3 +177,8 @@ Emergency,170.00,191121,Invest,-170.00,Transfer
 Emergency,-101.03,191121,Debts,101.03,Transfer
 Emergency,-101.03,191121,Live,101.03,Transfer
 Emergency,-101.03,191121,Moved_To_Bank
+Emergency,211,191205,Payday,-211,Transfer
+Emergency,350.00,191205,Invest,-350.00,Transfer
+Emergency,-6.00,191205,Extras,6.00,Transfer
+Emergency,-277.50,191205,Debts,277.50,Transfer
+Emergency,-277.50,191205,,,Moved_To_Bank

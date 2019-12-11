@@ -8,7 +8,6 @@ Extras,-1114.32,180827,Live,1114.32,Transfer
 Extras,65,180830,Payday,-65,Transfer
 Extras,65,180914,Payday,-65,Transfer
 Extras,65,180928,Payday,-65,Transfer
-
 Extras,65,181012,Payday,-65,Transfer
 Extras,30.00,181015,Emergency,-30.00,Transfer
 Extras,65,181025,Payday,-65,Transfer
@@ -69,3 +68,5 @@ Extras,130,191108,Payday,-130,Transfer
 Extras,130,191121,Payday,-130,Transfer
 Extras,-314.98,191123,,,Turtapod_Supplies
 Extras,-250.00,191125,,,Sent_ToMonica_TurtapodSupplies
+Extras,135,191205,Payday,-135,Transfer
+Extras,6.00,191205,Emergency,-6.00,Transfer

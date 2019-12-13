@@ -29,3 +29,4 @@ Taxes,58,191108,Payday,-58,Transfer
 Taxes,58,191121,Payday,-58,Transfer
 Taxes,-133.00,191121,Emergency,133.00,Transfer
 Taxes,58,191205,Payday,-58,Transfer
+Taxes,-60.00,191212,Emergency,60.00,Transfer

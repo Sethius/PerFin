@@ -182,3 +182,4 @@ Emergency,350.00,191205,Invest,-350.00,Transfer
 Emergency,-6.00,191205,Extras,6.00,Transfer
 Emergency,-277.50,191205,Debts,277.50,Transfer
 Emergency,-277.50,191205,,,Moved_To_Bank
+Emergency,60.00,191212,Taxes,-60.00,Transfer

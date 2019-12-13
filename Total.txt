@@ -1853,3 +1853,6 @@ Emergency,-277.50,191205,,,Moved_To_Bank
 Gaming,-4.99,191209,,,Paypal_StarRealms
 Gas,-33.90,191209,,,Patriot_Gas
 Gaming,-14.99,191210,,,XboxLive
+Emergency,60.00,191212,Taxes,-60.00,Transfer
+Taxes,-60.00,191212,Emergency,60.00,Transfer
+Car,-43.63,191212,,,DT_OilChange

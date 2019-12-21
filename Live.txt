@@ -176,3 +176,7 @@ Live,210.30,191121,Emergency,-210.30,Transfer
 Live,101.03,191121,Emergency,-101.03,Transfer
 Live,154,191205,Payday,-154,Transfer
 Live,-90.81,191205,,,Paid_CC
+Live,100.00,191218,Extras,-100.00,Transfer
+Live,-200.00,191218,,,Xmas_SentToMunky
+Live,154,191218,Payday,-154,Transfer
+Live,-32.70,191218,,,Paid_CC

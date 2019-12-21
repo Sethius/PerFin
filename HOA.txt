@@ -68,3 +68,4 @@ HOA,150,191108,Payday,-150,Transfer
 HOA,150,191121,Payday,-150,Transfer
 HOA,-297.95,191202,,,Paid_HOA
 HOA,150,191205,Payday,-150,Transfer
+HOA,150,191218,Payday,-150,Transfer

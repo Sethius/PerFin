@@ -61,3 +61,5 @@ Phone,-337.88,191108,Live,337.88,Transfer
 Phone,-170.00,191113,,,Paid_TMobile
 Phone,125,191121,Payday,-125,Transfer
 Phone,95,191205,Payday,-95,Transfer
+Phone,-170.00,191213,,,Paid_TMobile
+Phone,95,191218,Payday,-95,Transfer

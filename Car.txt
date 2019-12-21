@@ -48,3 +48,4 @@ Car,50.00,191118,Gas,-50.00,Transfer
 Car,95,191121,Payday,-95,Transfer
 Car,100,191205,Payday,-100,Transfer
 Car,-43.63,191212,,,DT_OilChange
+Car,100,191218,Payday,-100,Transfer

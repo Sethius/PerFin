@@ -68,3 +68,6 @@ Gaming,25,191121,Payday,-25,Transfer
 Gaming,25,191205,Payday,-25,Transfer
 Gaming,-4.99,191209,,,Paypal_StarRealms
 Gaming,-14.99,191210,,,XboxLive
+Gaming,25,191218,Payday,-25,Transfer
+Gaming,-1.99,191220,,,Bought_StarRealmsStuff
+Gaming,-1.99,191220,,,Bought_StarRealmsStuff

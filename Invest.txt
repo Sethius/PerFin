@@ -64,3 +64,4 @@ Invest,-170.00,191121,Emergency,170.00,Transfer
 Invest,135,191205,Payday,-135,Transfer
 Invest,40.00,191205,Fred,-40.00,Transfer
 Invest,-350.00,191205,Emergency,350.00,Transfer
+Invest,135,191218,Payday,-135,Transfer

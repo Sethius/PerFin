@@ -56,3 +56,5 @@ Internet,40,191121,Payday,-40,Transfer
 Internet,-79.99,191205,,,Paid_Cox
 Internet,40,191205,Payday,-40,Transfer
 Internet,40,191218,Payday,-40,Transfer
+Internet,40,200102,Payday,-40,Transfer
+Internet,-79.99,200106,,,Paid_Cox

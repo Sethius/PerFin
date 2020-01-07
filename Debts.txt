@@ -88,3 +88,6 @@ Debts,89,191205,Payday,-89,Transfer
 Debts,277.50,191205,Emergency,-277.50,Transfer
 Debts,89,191218,Payday,-89,Transfer
 Debts,137.00,191218,Emergency,-137.00,Transfer
+Debts,105.00,200102,Emergency,-105.00,Transfer
+Debts,89,200102,Payday,-89,Transfer
+Debts,449.63,200107,Emergency,-449.63,Transfer

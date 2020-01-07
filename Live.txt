@@ -180,3 +180,8 @@ Live,100.00,191218,Extras,-100.00,Transfer
 Live,-200.00,191218,,,Xmas_SentToMunky
 Live,154,191218,Payday,-154,Transfer
 Live,-32.70,191218,,,Paid_CC
+Live,-15.48,191222,,,Deibertos_Fud
+Live,-9.99,191227,,,Paypal_Valve_SteamGame
+Live,-233.99,200102,,,Paid_CC
+Live,105.00,200102,Emergency,-105.00,Transfer
+Live,154,200102,Payday,-154,Transfer

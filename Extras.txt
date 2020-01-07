@@ -72,3 +72,4 @@ Extras,135,191205,Payday,-135,Transfer
 Extras,6.00,191205,Emergency,-6.00,Transfer
 Extras,-100.00,191218,Live,100.00,Transfer
 Extras,135,191218,Payday,-135,Transfer
+Extras,135,200102,Payday,-135,Transfer

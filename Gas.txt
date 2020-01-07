@@ -168,3 +168,8 @@ Gas,-33.90,191209,,,Patriot_Gas
 Gas,-35.78,191215,,,Chevron_Gas
 Gas,-41.87,191217,,,Chevron_Gas
 Gas,120,191218,Payday,-120,Transfer
+Gas,-35.53,191220,,,CircleK_Gas
+Gas,-22.99,191225,,,Chevron_Gas
+Gas,-43.51,191225,,,Chevron_Gas
+Gas,120,200102,Payday,-120,Transfer
+Gas,-31.56,200105,,,Imperial_Gas

@@ -187,3 +187,11 @@ Emergency,211,191218,Payday,-211,Transfer
 Emergency,3.26,191218,Payday,-3.26,Transfer
 Emergency,-137.00,191218,Debts,137.00,Transfer
 Emergency,-137.00,191218,,,Moved_To_Bank
+Emergency,-105.00,200102,Live,105.00,Transfer
+Emergency,-105.00,200102,Debts,105.00,Transfer
+Emergency,211,200102,Payday,-211,Transfer
+Emergency,738,200107,Mortgage,-738,Transfer
+Emergency,154,200107,HOA,-154,Transfer
+Emergency,6,200107,Payday,-6,Transfer
+Emergency,-449.63,200107,Debts,449.63,Transfer
+Emergency,-449.63,200107,,,Moved_to_Bank

@@ -70,3 +70,4 @@ Mortgage,738,191218,Payday,-738,Transfer
 Mortgage,738,200102,Payday,-738,Transfer
 Mortgage,-1475.78,200102,,,Paid_NewRez
 Mortgage,-738,200107,Emergency,738,Transfer
+Mortgage,738,200116,Payday,-738,Transfer

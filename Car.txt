@@ -50,3 +50,4 @@ Car,100,191205,Payday,-100,Transfer
 Car,-43.63,191212,,,DT_OilChange
 Car,100,191218,Payday,-100,Transfer
 Car,100,200102,Payday,-100,Transfer
+Car,100,200116,Payday,-100,Transfer

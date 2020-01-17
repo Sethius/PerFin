@@ -72,3 +72,5 @@ Gaming,25,191218,Payday,-25,Transfer
 Gaming,-1.99,191220,,,Bought_StarRealmsStuff
 Gaming,-1.99,191220,,,Bought_StarRealmsStuff
 Gaming,25,200102,Payday,-25,Transfer
+Gaming,-14.99,200110,,,ESO
+Gaming,25,200116,Payday,-25,Transfer

@@ -173,3 +173,7 @@ Gas,-22.99,191225,,,Chevron_Gas
 Gas,-43.51,191225,,,Chevron_Gas
 Gas,120,200102,Payday,-120,Transfer
 Gas,-31.56,200105,,,Imperial_Gas
+Gas,-31.87,200108,,,Chevron_Gas
+Gas,-35.72,200112,,,Patriot_Gas
+Gas,120,200116,Payday,-120,Transfer
+Gas,-33.73,200116,Live,33.73,Transfer

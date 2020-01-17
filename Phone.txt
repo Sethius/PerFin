@@ -64,3 +64,5 @@ Phone,95,191205,Payday,-95,Transfer
 Phone,-170.00,191213,,,Paid_TMobile
 Phone,95,191218,Payday,-95,Transfer
 Phone,95,200102,Payday,-95,Transfer
+Phone,-170.00,200113,,,Paid_TMobile
+Phone,95,200116,Payday,-95,Transfer

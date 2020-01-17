@@ -91,3 +91,8 @@ Debts,137.00,191218,Emergency,-137.00,Transfer
 Debts,105.00,200102,Emergency,-105.00,Transfer
 Debts,89,200102,Payday,-89,Transfer
 Debts,449.63,200107,Emergency,-449.63,Transfer
+Debts,89,200116,Payday,-89,Transfer
+Debts,-500.00,200116,,,Sent_to_Munky
+Debts,-500.00,200116,,,Mortgage_Principle_Extra
+Debts,328.61,200116,Emergency,-328.61,Transfer
+Debts,-161.62,200116,Invest,161.62,Transfer

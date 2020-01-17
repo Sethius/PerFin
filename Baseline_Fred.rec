@@ -1,4 +1,5 @@
 Current Baseline for Fred.txt:
-2917.62
+3043.87
 
 //If account Fred.txt makes a loan, Fred.txt will grow.  Half of growth (Fred.txt-Baseline=Growth) can be transferred to Invest, and a new Baseline will be established.
+

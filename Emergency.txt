@@ -195,3 +195,8 @@ Emergency,154,200107,HOA,-154,Transfer
 Emergency,6,200107,Payday,-6,Transfer
 Emergency,-449.63,200107,Debts,449.63,Transfer
 Emergency,-449.63,200107,,,Moved_to_Bank
+Emergency,-52.79,200116,Live,52.79,Transfer
+Emergency,210,200116,Payday,-210,Transfer
+Emergency,500.00,200116,Invest,-500.00,Transfer
+Emergency,-328.61,200116,Debts,328.61,Transfer
+Emergency,-328.61,200116,,,Moved_to_Savings

@@ -15,7 +15,7 @@ read paycheck
 ./Input.sh AAA,50,$(date +%y%m%d),Payday,-50,Transfer
 ./Input.sh Car,100,$(date +%y%m%d),Payday,-100,Transfer
 ./Input.sh Debts,89,$(date +%y%m%d),Payday,-89,Transfer
-./Input.sh Emergency,208,$(date +%y%m%d),Payday,-208,Transfer
+./Input.sh Emergency,210,$(date +%y%m%d),Payday,-210,Transfer
 ./Input.sh Extras,135,$(date +%y%m%d),Payday,-135,Transfer
 ./Input.sh Gaming,25,$(date +%y%m%d),Payday,-25,Transfer
 ./Input.sh Gas,120,$(date +%y%m%d),Payday,-120,Transfer

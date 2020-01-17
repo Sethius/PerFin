@@ -185,3 +185,9 @@ Live,-9.99,191227,,,Paypal_Valve_SteamGame
 Live,-233.99,200102,,,Paid_CC
 Live,105.00,200102,Emergency,-105.00,Transfer
 Live,154,200102,Payday,-154,Transfer
+Live,-30.27,200115,,,DoorDash_McDonalds
+Live,-30.82,200115,,,DoorDash_Ohana
+Live,-16.42,200116,,,Paid_CC
+Live,52.79,200116,Emergency,-52.79,Transfer
+Live,154,200116,Payday,-154,Transfer
+Live,33.73,200116,Gas,-33.73,Transfer

@@ -59,3 +59,16 @@ Internet,40,191218,Payday,-40,Transfer
 Internet,40,200102,Payday,-40,Transfer
 Internet,-79.99,200106,,,Paid_Cox
 Internet,40,200116,Payday,-40,Transfer
+Internet,40,200130,Payday,-40,Transfer
+Internet,-79.99,200205,,,Paid_Cox
+Internet,40,200213,Payday,-40,Transfer
+Internet,40,200227,Payday,-40,Transfer
+Internet,-40.08,200227,Emergency,40.08,Transfer
+Internet,-79.99,200309,,,Paid_Cox
+Internet,40,200312,Payday,-40,Transfer
+Internet,40,200403,Payday,-40,Transfer
+Internet,-79.99,200406,,,Paid_Cox
+Internet,40,200410,Payday,-40,Transfer
+Internet,40,200424,Payday,-40,Transfer
+Internet,-79.99,200506,,,Paid_Cox
+Internet,40,200508,Payday,-40,Transfer

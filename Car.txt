@@ -51,3 +51,13 @@ Car,-43.63,191212,,,DT_OilChange
 Car,100,191218,Payday,-100,Transfer
 Car,100,200102,Payday,-100,Transfer
 Car,100,200116,Payday,-100,Transfer
+Car,100,200130,Payday,-100,Transfer
+Car,100,200213,Payday,-100,Transfer
+Car,196.09,200213,Payday,-196.09,Transfer
+Car,100,200227,Payday,-100,Transfer
+Car,-141.00,200303,,,DMV_Registration
+Car,100,200312,Payday,-100,Transfer
+Car,100,200403,Payday,-100,Transfer
+Car,100,200410,Payday,-100,Transfer
+Car,128,200424,Payday,-128,Transfer
+Car,171,200508,Payday,-171,Transfer

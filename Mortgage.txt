@@ -71,3 +71,16 @@ Mortgage,738,200102,Payday,-738,Transfer
 Mortgage,-1475.78,200102,,,Paid_NewRez
 Mortgage,-738,200107,Emergency,738,Transfer
 Mortgage,738,200116,Payday,-738,Transfer
+Mortgage,738,200130,Payday,-738,Transfer
+Mortgage,-1475.78,200203,,,Paid_NewRez
+Mortgage,738,200213,Payday,-738,Transfer
+Mortgage,738,200227,Payday,-738,Transfer
+Mortgage,-1447.80,200303,,,NewRez_Mortgage
+Mortgage,738,200312,Payday,-738,Transfer
+Mortgage,738,200403,Payday,-738,Transfer
+Mortgage,-1447.80,200401,,,Paid_Mortgage
+Mortgage,738,200410,Payday,-738,Transfer
+Mortgage,-795.31,200411,Debts,795.31,Transfer
+Mortgage,568,200424,Payday,-568,Transfer
+Mortgage,-568.00,200424,Emergency,568.00,Transfer
+Mortgage,568,200508,Payday,-568,Transfer

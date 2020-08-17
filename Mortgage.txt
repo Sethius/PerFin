@@ -84,3 +84,15 @@ Mortgage,-795.31,200411,Debts,795.31,Transfer
 Mortgage,568,200424,Payday,-568,Transfer
 Mortgage,-568.00,200424,Emergency,568.00,Transfer
 Mortgage,568,200508,Payday,-568,Transfer
+Mortgage,568,200522,Payday,-568,Transfer
+Mortgage,-1134.12,200526,,,Paid_Mortgage_Wescom
+Mortgage,-1,200601,Emergency,1,Transfer
+Mortgage,568,200604,Payday,-568,Transfer
+Mortgage,568,200617,Payday,-568,Transfer
+Mortgage,-1134.12,200622,,,Paid_Mortgage_Wescom_July
+Mortgage,568,200706,Payday,-568,Transfer
+Mortgage,568,200715,Payday,-568,Transfer
+Mortgage,-568.00,200715,Emergency,568.00,Transfer
+Mortgage,568,200729,Payday,-568,Transfer
+Mortgage,-1134.12,200731,,,Paid_Wescom
+Mortgage,568,200812,Payday,-568,Transfer

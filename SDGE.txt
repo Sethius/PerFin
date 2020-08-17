@@ -72,3 +72,13 @@ SDGE,50,200410,Payday,-50,Transfer
 SDGE,-74.53,200421,,,Paid_SDGE
 SDGE,50,200424,Payday,-50,Transfer
 SDGE,50,200508,Payday,-50,Transfer
+SDGE,-75.50,200520,,,Paid_SDGE
+SDGE,50,200522,Payday,-50,Transfer
+SDGE,50,200604,Payday,-50,Transfer
+SDGE,50,200617,Payday,-50,Transfer
+SDGE,-97.51,200623,,,Paid_SDGE
+SDGE,50,200706,Payday,-50,Transfer
+SDGE,50,200715,Payday,-50,Transfer
+SDGE,-134.24,200721,,,Paid_SDGE
+SDGE,50,200729,Payday,-50,Transfer
+SDGE,50,200812,Payday,-50,Transfer

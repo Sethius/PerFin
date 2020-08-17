@@ -86,3 +86,14 @@ HOA,150,200424,Payday,-150,Transfer
 HOA,-297.95,200501,,,Paid_HOA
 HOA,-8.70,200501,Emergency,8.70,Transfer
 HOA,150,200508,Payday,-150,Transfer
+HOA,150,200522,Payday,-150,Transfer
+HOA,150,200604,Payday,-150,Transfer
+HOA,150,200617,Payday,-150,Transfer
+HOA,-295.00,200618,,,Paid_HOA
+HOA,150,200706,Payday,-150,Transfer
+HOA,-295.00,200707,,,Paid_HOA
+HOA,150,200715,Payday,-150,Transfer
+HOA,-150.00,200715,Emergency,150.00,Transfer
+HOA,150,200729,Payday,-150,Transfer
+HOA,-295.00,200810,,,Paid_HOA
+HOA,150,200812,Payday,-150,Transfer

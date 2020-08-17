@@ -13,3 +13,12 @@ MunkyFred,46,200403,Payday,-46,Transfer
 MunkyFred,46,200410,Payday,-46,Transfer
 MunkyFred,46,200424,Payday,-46,Transfer
 MunkyFred,46,200508,Payday,-46,Transfer
+MunkyFred,46,200522,Payday,-46,Transfer
+MunkyFred,-372,200526,Invest,372,Transfer
+MunkyFred,-60.12,200526,Fred,60.12,Transfer
+MunkyFred,58,200604,Payday,-58,Transfer
+MunkyFred,58,200617,Payday,-58,Transfer
+MunkyFred,58,200706,Payday,-58,Transfer
+MunkyFred,58,200715,Payday,-58,Transfer
+MunkyFred,58,200729,Payday,-58,Transfer
+MunkyFred,58,200812,Payday,-58,Transfer

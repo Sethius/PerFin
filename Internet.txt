@@ -72,3 +72,14 @@ Internet,40,200410,Payday,-40,Transfer
 Internet,40,200424,Payday,-40,Transfer
 Internet,-79.99,200506,,,Paid_Cox
 Internet,40,200508,Payday,-40,Transfer
+Internet,40,200522,Payday,-40,Transfer
+Internet,-79.99,200604,,,Paid_Cox
+Internet,40,200604,Payday,-40,Transfer
+Internet,40,200617,Payday,-40,Transfer
+Internet,40,200706,Payday,-40,Transfer
+Internet,-79.99,200706,,,Paid_Cox
+Internet,40,200715,Payday,-40,Transfer
+Internet,40,200729,Payday,-40,Transfer
+Internet,-83.99,200805,,,Paid_Cox
+Internet,-36.05,200807,Emergency,36.05,Transfer
+Internet,42,200812,Payday,-42,Transfer

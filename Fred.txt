@@ -3,3 +3,6 @@ Fred,452.53,191112,MunkyFred,-452.53,Transfer
 Fred,-60.00,191121,Invest,60.00,Transfer
 Fred,-40.00,191205,Invest,40.00,Transfer
 Fred,-126.25,200116,Invest,126.25,Transfer
+Fred,60.12,200526,MunkyFred,-60.12,Transfer
+Fred,-30.00,200526,Invest,30.00,Transfer
+Fred,-200.00,2007,28,,,Moved_to_TDAmeritrade

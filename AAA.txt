@@ -23,3 +23,4 @@ AAA,50,200706,Payday,-50,Transfer
 AAA,50,200715,Payday,-50,Transfer
 AAA,50,200729,Payday,-50,Transfer
 AAA,50,200812,Payday,-50,Transfer
+AAA,50,200826,Payday,-50,Transfer

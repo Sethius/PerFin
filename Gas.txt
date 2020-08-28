@@ -236,3 +236,6 @@ Gas,-34.66,200805,,,Chevron_Gas
 Gas,120,200812,Payday,-120,Transfer
 Gas,-200.00,200812,Emergency,200.00,Transfer
 Gas,-44.65,200812,,,Chevron_Gas
+Gas,-41.80,200821,,,Westmart_Gas
+Gas,120,200826,Payday,-120,Transfer
+Gas,-34.66,200826,Live,34.66,Transfer

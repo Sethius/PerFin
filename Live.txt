@@ -256,3 +256,11 @@ Live,146.09,200807,Emergency,-146.09,Transfer
 Live,210,200812,Payday,-210,Transfer
 Live,153.00,200812,Emergency,-153.00,Transfer
 Live,-150.00,200817,,,Paid_Electrician
+Live,-43.99,200818,,,PizzaHut
+Live,160.00,200819,Emergency,-160.00,Transfer
+Live,-39.10,200819,,,Paypal_Forgotten
+Live,-162.00,200821,,,Mission_Mark
+Live,215,200826,Payday,-215,Transfer
+Live,34.66,200826,Gas,-34.66,Transfer
+Live,167.00,200826,Extras,-167.00,Transfer
+Live,-222.12,200828,,,Paid_CC

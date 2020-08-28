@@ -113,3 +113,6 @@ Extras,90.00,200729,Emergency,-90.00,Transfer
 Extras,818.00,200807,Emergency,-818.00,Transfer
 Extras,190,200812,Payday,-190,Transfer
 Extras,-500.00,200817,,,Sent_to_Munky
+Extras,282.00,200819,Emergency,-282.00,Transfer
+Extras,195,200826,Payday,-195,Transfer
+Extras,-167.00,200826,Live,167.00,Transfer

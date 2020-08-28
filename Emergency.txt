@@ -298,3 +298,11 @@ Emergency,200.00,200812,Gas,-200.00,Transfer
 Emergency,-153.00,200812,Live,153.00,Transfer
 Emergency,-153.00,200812,Debts,153.00,Transfer
 Emergency,-153.00,200812,,,Moved_to_Bank
+Emergency,1000.00,200819,Invest,-1000.00,Transfer
+Emergency,-160.00,200819,Live,160.00,Transfer
+Emergency,-282.00,200819,Debts,282.00,Transfer
+Emergency,-282.00,200819,Extras,282.00,Transfer
+Emergency,-282.00,200819,,,Moved_to_Bank
+Emergency,250,200826,Payday,-250,Transfer
+Emergency,-125.00,200826,Debts,125.00,Transfer
+Emergency,-125.00,200826,,,Moved_To_Bank

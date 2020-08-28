@@ -96,3 +96,5 @@ Mortgage,-568.00,200715,Emergency,568.00,Transfer
 Mortgage,568,200729,Payday,-568,Transfer
 Mortgage,-1134.12,200731,,,Paid_Wescom
 Mortgage,568,200812,Payday,-568,Transfer
+Mortgage,568,200826,Payday,-568,Transfer
+Mortgage,-1134.12,200826,,,Paid_Mortgage

@@ -116,3 +116,5 @@ Extras,-500.00,200817,,,Sent_to_Munky
 Extras,282.00,200819,Emergency,-282.00,Transfer
 Extras,195,200826,Payday,-195,Transfer
 Extras,-167.00,200826,Live,167.00,Transfer
+Extras,-30.00,200902,,,Dokeling_Gear_Upgrades
+Extras,33.00,200902,Emergency,-33.00,Transfer

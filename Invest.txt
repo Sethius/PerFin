@@ -95,3 +95,6 @@ Invest,196,200729,Payday,-196,Transfer
 Invest,190,200812,Payday,-190,Transfer
 Invest,-1000.00,200819,Emergency,1000.00,Transfer
 Invest,190,200826,Payday,-190,Transfer
+Invest,-0.65,200902,MunkyFred,0.65,Transfer
+Invest,-24.00,200902,MunkyFred,24.00,Transfer
+Invest,-500.00,200902,Emergency,500.00,Transfer

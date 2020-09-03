@@ -927,3 +927,4 @@ Payday,-58,200826,MunkyFred,58,Transfer
 Payday,-95,200826,Phone,95,Transfer
 Payday,-50,200826,SDGE,50,Transfer
 Payday,-60,200826,Vacation,60,Transfer
+Payday,0.38,200831,,,Earned_Interest

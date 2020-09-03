@@ -306,3 +306,8 @@ Emergency,-282.00,200819,,,Moved_to_Bank
 Emergency,250,200826,Payday,-250,Transfer
 Emergency,-125.00,200826,Debts,125.00,Transfer
 Emergency,-125.00,200826,,,Moved_To_Bank
+Emergency,99.00,200902,Gas,-99.00,Transfer
+Emergency,-33.00,200902,Extras,33.00,Transfer
+Emergency,500.00,200902,Invest,-500.00,Transfer
+Emergency,-283.00,200902,Debts,283.00,Transfer
+Emergency,-283.00,200902,,,Moved_To_Bank

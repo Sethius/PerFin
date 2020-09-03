@@ -239,3 +239,5 @@ Gas,-44.65,200812,,,Chevron_Gas
 Gas,-41.80,200821,,,Westmart_Gas
 Gas,120,200826,Payday,-120,Transfer
 Gas,-34.66,200826,Live,34.66,Transfer
+Gas,-36.87,200901,,,Costco_Gas
+Gas,-99.00,200902,Emergency,99.00,Transfer

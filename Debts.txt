@@ -144,3 +144,7 @@ Debts,282.00,200819,Emergency,-282.00,Transfer
 Debts,-45,200826,Payday,45,Transfer
 Debts,125.00,200826,Emergency,-125.00,Transfer
 Debts,283.00,200902,Emergency,-283.00,Transfer
+Debts,-45,200909,Payday,45,Transfer
+Debts,62.50,200909,Emergency,-62.50,Transfer
+Debts,80.00,200918,Emergency,-80.00,Transfer
+Debts,-17,200923,Payday,17,Transfer

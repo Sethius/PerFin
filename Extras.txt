@@ -118,3 +118,9 @@ Extras,195,200826,Payday,-195,Transfer
 Extras,-167.00,200826,Live,167.00,Transfer
 Extras,-30.00,200902,,,Dokeling_Gear_Upgrades
 Extras,33.00,200902,Emergency,-33.00,Transfer
+Extras,195,200909,Payday,-195,Transfer
+Extras,-290.00,200905,Live,290.00,Transfer
+Extras,62.50,200909,Emergency,-62.50,Transfer
+Extras,-300.00,200909,,,Check_for_Munka
+Extras,80.00,200918,Emergency,-80.00,Transfer
+Extras,45,200923,Payday,-45,Transfer

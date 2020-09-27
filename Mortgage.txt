@@ -98,3 +98,6 @@ Mortgage,-1134.12,200731,,,Paid_Wescom
 Mortgage,568,200812,Payday,-568,Transfer
 Mortgage,568,200826,Payday,-568,Transfer
 Mortgage,-1134.12,200826,,,Paid_Mortgage
+Mortgage,568,200909,Payday,-568,Transfer
+Mortgage,568,200923,Payday,-568,Transfer
+Mortgage,-1134.12,200925,,,Paid_Mortgage

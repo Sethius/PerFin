@@ -13,20 +13,20 @@ read paycheck
 ##Some of these will need to be updated periodically to reflect changes in priority
 
 ./Input.sh AAA,50,$(date +%y%m%d),Payday,-50,Transfer
-./Input.sh Car,161,$(date +%y%m%d),Payday,-161,Transfer
-./Input.sh Debts,-45,$(date +%y%m%d),Payday,45,Transfer
-./Input.sh Emergency,250,$(date +%y%m%d),Payday,-250,Transfer
-./Input.sh Extras,195,$(date +%y%m%d),Payday,-195,Transfer
+./Input.sh Car,131,$(date +%y%m%d),Payday,-131,Transfer
+./Input.sh Debts,-17,$(date +%y%m%d),Payday,17,Transfer
+./Input.sh Emergency,220,$(date +%y%m%d),Payday,-220,Transfer
+./Input.sh Extras,45,$(date +%y%m%d),Payday,-45,Transfer
 ./Input.sh Gaming,25,$(date +%y%m%d),Payday,-25,Transfer
 ./Input.sh Gas,120,$(date +%y%m%d),Payday,-120,Transfer
 ./Input.sh HOA,150,$(date +%y%m%d),Payday,-150,Transfer
 ./Input.sh Internet,42,$(date +%y%m%d),Payday,-42,Transfer
-./Input.sh Invest,190,$(date +%y%m%d),Payday,-190,Transfer
-./Input.sh Live,215,$(date +%y%m%d),Payday,-215,Transfer
+./Input.sh Invest,160,$(date +%y%m%d),Payday,-160,Transfer
+./Input.sh Live,185,$(date +%y%m%d),Payday,-185,Transfer
 ./Input.sh Mortgage,568,$(date +%y%m%d),Payday,-568,Transfer
-./Input.sh MunkyFred,58,$(date +%y%m%d),Payday,-58,Transfer
 ./Input.sh Phone,95,$(date +%y%m%d),Payday,-95,Transfer
 ./Input.sh SDGE,50,$(date +%y%m%d),Payday,-50,Transfer
+./Input.sh Spouse,300,$(date +%y%m%d),Payday,-300,Transfer
 ./Input.sh Vacation,60,$(date +%y%m%d),Payday,-60,Transfer
 
 echo

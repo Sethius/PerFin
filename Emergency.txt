@@ -311,3 +311,16 @@ Emergency,-33.00,200902,Extras,33.00,Transfer
 Emergency,500.00,200902,Invest,-500.00,Transfer
 Emergency,-283.00,200902,Debts,283.00,Transfer
 Emergency,-283.00,200902,,,Moved_To_Bank
+Emergency,250,200909,Payday,-250,Transfer
+Emergency,-62.50,200909,Debts,62.50,Transfer
+Emergency,-62.50,200909,Extras,62.50,Transfer
+Emergency,-62.50,200909,Live,62.50,Transfer
+Emergency,-62.50,200909,,,Moved_To_Bank
+Emergency,400.00,200918,Invest,-400.00,Transfer
+Emergency,-80.00,200918,Debts,80.00,Transfer
+Emergency,-80.00,200918,Extras,80.00,Transfer
+Emergency,-80.00,200918,Live,80.00,Transfer
+Emergency,-80.00,200918,Spouse,80.00,Transfer
+Emergency,-80.00,200918,,,Moved_to_Bank
+Emergency,-500.00,200922,,,Jenny_Assist
+Emergency,220,200923,Payday,-220,Transfer

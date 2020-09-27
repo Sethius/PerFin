@@ -24,3 +24,7 @@ AAA,50,200715,Payday,-50,Transfer
 AAA,50,200729,Payday,-50,Transfer
 AAA,50,200812,Payday,-50,Transfer
 AAA,50,200826,Payday,-50,Transfer
+AAA,50,200909,Payday,-50,Transfer
+AAA,-290.06,200910,Live,290.06,Transfer
+AAA,50,200923,Payday,-50,Transfer
+AAA,-715.00,200926,Live,715.00,Transfer

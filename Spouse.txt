@@ -1,0 +1,8 @@
+Spouse,-1400.00,200918,,,FinAssist_toMunky
+Spouse,-337.20,200918,Live,337.20,Transfer
+Spouse,-84.03,200918,Live,84.03,Transfer
+Spouse,-21.92,200918,Live,21.92,Transfer
+Spouse,80.00,200918,Emergency,-80.00,Transfer
+Spouse,300,200923,Payday,-300.00,Transfer
+Spouse,-437.20,200922,Live,437.20,Transfer
+Spouse,-29.51,200922,Live,29.51,Transfer

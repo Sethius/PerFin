@@ -28,3 +28,9 @@ AAA,50,200909,Payday,-50,Transfer
 AAA,-290.06,200910,Live,290.06,Transfer
 AAA,50,200923,Payday,-50,Transfer
 AAA,-715.00,200926,Live,715.00,Transfer
+AAA,50,201007,Payday,-50,Transfer
+AAA,50.20,201007,Emergency,-50.20,Transfer
+AAA,50,201021,Payday,-50,Transfer
+AAA,35.87,201021,Emergency,-35.87,Transfer
+AAA,50,201104,Payday,-50,Transfer
+AAA,50,201118,Payday,-50,Transfer

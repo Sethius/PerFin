@@ -109,3 +109,9 @@ Gaming,25,200826,Payday,-25,Transfer
 Gaming,25,200909,Payday,-25,Transfer
 Gaming,-14.99,200909,,,ESO_Subscription
 Gaming,25,200923,Payday,-25,Transfer
+Gaming,25,201007,Payday,-25,Transfer
+Gaming,25,201021,Payday,-25,Transfer
+Gaming,-161.37,201021,Emergency,161.37,Transfer
+Gaming,25,201104,Payday,-25,Transfer
+Gaming,-4.96,201116,,,Paypal_Steam
+Gaming,25,201118,Payday,-25,Transfer

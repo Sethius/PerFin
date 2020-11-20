@@ -92,3 +92,9 @@ Phone,95,200826,Payday,-95,Transfer
 Phone,95,200909,Payday,-95,Transfer
 Phone,-176.00,200914,,,Paid_TMobile
 Phone,95,200923,Payday,-95,Transfer
+Phone,95,201007,Payday,-95,Transfer
+Phone,-116.00,201014,,,Paid_TMobile
+Phone,95,201021,Payday,-95,Transfer
+Phone,95,201104,Payday,-95,Transfer
+Phone,-140.00,201116,,,Paid_TMobile
+Phone,95,201118,Payday,-95,Transfer

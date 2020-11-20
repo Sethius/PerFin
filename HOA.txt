@@ -101,3 +101,13 @@ HOA,150,200826,Payday,-150,Transfer
 HOA,-295.00,200909,,,Paid_HOA_Pilot
 HOA,150,200909,Payday,-150,Transfer
 HOA,150,200923,Payday,-150,Transfer
+HOA,150,201007,Payday,-150,Transfer
+HOA,-295.00,201006,,,Paid_HOA
+HOA,150,201021,Payday,-150,Transfer
+HOA,-596.76,201026,Live,596.76,Transfer
+HOA,150,201104,Payday,-150,Transfer
+HOA,44.00,201104,Emergency,-44.00,Transfer
+HOA,372.75,201104,Emergency,-372.75,Transfer
+HOA,-295.00,201109,,,Paid_HOA
+HOA,0.01,201113,Payday,-0.01,Transfer
+HOA,150,201118,Payday,-150,Transfer

@@ -102,3 +102,9 @@ Invest,190,200909,Payday,-190,Transfer
 Invest,-2552.00,200918,MunkyFred,2552.00,Transfer
 Invest,-400.00,200918,Emergency,400.00,Transfer
 Invest,160,200923,Payday,-160,Transfer
+Invest,160,201007,Payday,-160,Transfer
+Invest,160,201021,Payday,-160,Transfer
+Invest,-400.00,201021,Emergency,400.00,Transfer
+Invest,160,201104,Payday,-160,Transfer
+Invest,-500.00,201104,Emergency,500.00,Transfer
+Invest,160,201118,Payday,-160,Transfer

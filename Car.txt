@@ -75,3 +75,10 @@ Car,161,200812,Payday,-161,Transfer
 Car,161,200826,Payday,-161,Transfer
 Car,161,200909,Payday,-161,Transfer
 Car,131,200923,Payday,-131,Transfer
+Car,131,201007,Payday,-131,Transfer
+Car,-250.48,201017,Live,250.48,Transfer
+Car,131,201021,Payday,-131,Transfer
+Car,131,201104,Payday,-131,Transfer
+Car,-1500.00,201104,Emergency,1500.00,Transfer
+Car,-2400.00,201113,Emergency,2400.00,Transfer
+Car,131,201118,Payday,-131,Transfer

@@ -87,3 +87,9 @@ Internet,42,200826,Payday,-42,Transfer
 Internet,-83.99,200908,,,Paid_Cox
 Internet,42,200909,Payday,-42,Transfer
 Internet,42,200923,Payday,-42,Transfer
+Internet,-83.99,201005,,,Paid_Cox
+Internet,42,201007,Payday,-42,Transfer
+Internet,42,201021,Payday,-42,Transfer
+Internet,42,201104,Payday,-42,Transfer
+Internet,-83.99,201105,,,Paid_Cox
+Internet,42,201118,Payday,-42,Transfer

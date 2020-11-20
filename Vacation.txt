@@ -6,3 +6,7 @@ Vacation,60,200812,Payday,-60,Transfer
 Vacation,60,200826,Payday,-60,Transfer
 Vacation,60,200909,Payday,-60,Transfer
 Vacation,60,200923,Payday,-60,Transfer
+Vacation,60,201007,Payday,-60,Transfer
+Vacation,60,201021,Payday,-60,Transfer
+Vacation,60,201104,Payday,-60,Transfer
+Vacation,60,201118,Payday,-60,Transfer

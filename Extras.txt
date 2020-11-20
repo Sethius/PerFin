@@ -124,3 +124,11 @@ Extras,62.50,200909,Emergency,-62.50,Transfer
 Extras,-300.00,200909,,,Check_for_Munka
 Extras,80.00,200918,Emergency,-80.00,Transfer
 Extras,45,200923,Payday,-45,Transfer
+Extras,45,201007,Payday,-45,Transfer
+Extras,50.20,201007,Emergency,-50.20,Transfer
+Extras,-77.92,201015,Live,77.92,Transfer
+Extras,45,201021,Payday,-45,Transfer
+Extras,69.10,201021,Emergency,-69.10,Transfer
+Extras,72.16,201021,Emergency,-72.16,Transfer
+Extras,45,201104,Payday,-45,Transfer
+Extras,45,201118,Payday,-45,Transfer

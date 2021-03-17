@@ -106,3 +106,16 @@ Mortgage,568,201021,Payday,-568,Transfer
 Mortgage,-1134.12,201028,,,Paid_Mortgage
 Mortgage,568,201104,Payday,-568,Transfer
 Mortgage,568,201118,Payday,-568,Transfer
+Mortgage,-1134.12,201120,,,Paid_Mortgage
+Mortgage,568,201207,Payday,-568,Transfer
+Mortgage,568,201216,Payday,-568,Transfer
+Mortgage,568,201229,Payday,-568,Transfer
+Mortgage,-1134.12,201229,,,Paid_Mortgage
+Mortgage,-582.04,201229,Emergency,582.04,Transfer
+Mortgage,568,210113,Payday,-568,Transfer
+Mortgage,568,210127,Payday,-568,Transfer
+Mortgage,-1134.12,210127,,,Paid_WescomMortgage
+Mortgage,568,210210,Payday,-568,Transfer
+Mortgage,568,210224,Payday,-568,Transfer
+Mortgage,-1134.12,210224,,,Paid_Mortgage
+Mortgage,568,210310,Payday,-568,Transfer

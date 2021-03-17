@@ -10,3 +10,11 @@ Vacation,60,201007,Payday,-60,Transfer
 Vacation,60,201021,Payday,-60,Transfer
 Vacation,60,201104,Payday,-60,Transfer
 Vacation,60,201118,Payday,-60,Transfer
+Vacation,60,201207,Payday,-60,Transfer
+Vacation,60,201216,Payday,-60,Transfer
+Vacation,60,201229,Payday,-60,Transfer
+Vacation,60,210113,Payday,-60,Transfer
+Vacation,60,210127,Payday,-60,Transfer
+Vacation,60,210210,Payday,-60,Transfer
+Vacation,60,210224,Payday,-60,Transfer
+Vacation,60,210310,Payday,-60,Transfer

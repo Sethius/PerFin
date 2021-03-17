@@ -93,3 +93,16 @@ Internet,42,201021,Payday,-42,Transfer
 Internet,42,201104,Payday,-42,Transfer
 Internet,-83.99,201105,,,Paid_Cox
 Internet,42,201118,Payday,-42,Transfer
+Internet,42,201207,Payday,-42,Transfer
+Internet,-83.99,201207,,,Paid_Cox
+Internet,42,201216,Payday,-42,Transfer
+Internet,42,201229,Payday,-42,Transfer
+Internet,-42.05,201229,Emergency,42.05,Transfer
+Internet,-83.99,210105,,,Paid_Cox
+Internet,42,210113,Payday,-42,Transfer
+Internet,42,210127,Payday,-42,Transfer
+Internet,-83.99,210205,,,Paid_Cox
+Internet,42,210210,Payday,-42,Transfer
+Internet,42,210224,Payday,-42,Transfer
+Internet,-83.99,210308,,,Paid_Cox
+Internet,42,210310,Payday,-42,Transfer

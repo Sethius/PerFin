@@ -82,3 +82,16 @@ Car,131,201104,Payday,-131,Transfer
 Car,-1500.00,201104,Emergency,1500.00,Transfer
 Car,-2400.00,201113,Emergency,2400.00,Transfer
 Car,131,201118,Payday,-131,Transfer
+Car,131,201207,Payday,-131,Transfer
+Car,131,201216,Payday,-131,Transfer
+Car,131,201229,Payday,-131,Transfer
+Car,131,210113,Payday,-131,Transfer
+Car,-132.28,210125,AAA,132.28,Transfer
+Car,131,210127,Payday,-131,Transfer
+Car,131,210210,Payday,-131,Transfer
+Car,-300.00,210216,,,Munky_Car
+Car,-16.95,210215,,,Traffic_School
+Car,60.00,210222,Taxes,-60.00,Transfer
+Car,131,210224,Payday,-131,Transfer
+Car,131,210310,Payday,-131,Transfer
+Car,-209.48,210314,Live,209.48,Transfer

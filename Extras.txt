@@ -132,3 +132,15 @@ Extras,69.10,201021,Emergency,-69.10,Transfer
 Extras,72.16,201021,Emergency,-72.16,Transfer
 Extras,45,201104,Payday,-45,Transfer
 Extras,45,201118,Payday,-45,Transfer
+Extras,45,201207,Payday,-45,Transfer
+Extras,45,201216,Payday,-45,Transfer
+Extras,45,201229,Payday,-45,Transfer
+Extras,45,210113,Payday,-45,Transfer
+Extras,45,210127,Payday,-45,Transfer
+Extras,45,210210,Payday,-45,Transfer
+Extras,60.00,210222,Taxes,-60.00,Transfer
+Extras,45,210224,Payday,-45,Transfer
+Extras,245.00,210226,Taxes,-245.00,Transfer
+Extras,45,210310,Payday,-45,Transfer
+Extras,40.28,210310,Payday,-40.28,Transfer
+Extras,280.00,210312,Taxes,-280.00,Transfer

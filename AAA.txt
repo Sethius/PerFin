@@ -34,3 +34,13 @@ AAA,50,201021,Payday,-50,Transfer
 AAA,35.87,201021,Emergency,-35.87,Transfer
 AAA,50,201104,Payday,-50,Transfer
 AAA,50,201118,Payday,-50,Transfer
+AAA,50,201207,Payday,-50,Transfer
+AAA,50,201216,Payday,-50,Transfer
+AAA,50,201229,Payday,-50,Transfer
+AAA,50,210113,Payday,-50,Transfer
+AAA,-432.28,210124,,,Paid_GEICO
+AAA,132.28,210125,Car,-132.28,Transfer
+AAA,50,210127,Payday,-50,Transfer
+AAA,50,210210,Payday,-50,Transfer
+AAA,50,210224,Payday,-50,Transfer
+AAA,50,210310,Payday,-50,Transfer

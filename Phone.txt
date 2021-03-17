@@ -98,3 +98,15 @@ Phone,95,201021,Payday,-95,Transfer
 Phone,95,201104,Payday,-95,Transfer
 Phone,-140.00,201116,,,Paid_TMobile
 Phone,95,201118,Payday,-95,Transfer
+Phone,95,201207,Payday,-95,Transfer
+Phone,-140.00,201214,,,Paid_TMobile
+Phone,95,201216,Payday,-95,Transfer
+Phone,95,201229,Payday,-95,Transfer
+Phone,95,210113,Payday,-95,Transfer
+Phone,-140.00,210114,,,Paid_TMobile
+Phone,95,210127,Payday,-95,Transfer
+Phone,95,210210,Payday,-95,Transfer
+Phone,-140.00,210216,,,Paid_TMobile
+Phone,95,210224,Payday,-95,Transfer
+Phone,95,210310,Payday,-95,Transfer
+Phone,-140.00,210315,,,Paid_TMobile
